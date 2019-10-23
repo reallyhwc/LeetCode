@@ -13,6 +13,7 @@ class Solution {
         if(head == null || head.next == null){
             return head;
         }
+        //看代码应该可以很快速的了解与原理，如果当前值与next的值相同，则跳过这个（通过迭代）
         if(head.val == head.next.val){
             head = deleteDuplicates(head.next);
         }else{
