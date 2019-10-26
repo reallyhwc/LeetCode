@@ -1,5 +1,7 @@
 package com.xuhu.LeetCode.easy0100;
 
+import com.xuhu.LeetCode.a.util.TreeNode;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

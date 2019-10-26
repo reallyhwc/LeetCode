@@ -1,6 +1,8 @@
 package com.xuhu.LeetCode.easy0101;
 
 
+import com.xuhu.LeetCode.a.util.TreeNode;
+
 class Solution {
 
     //递归解法
