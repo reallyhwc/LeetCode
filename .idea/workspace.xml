@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0107/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0107/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0107/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0107/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0107/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +31,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0107" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -173,6 +172,7 @@
       <workItem from="1572069536670" duration="621000" />
       <workItem from="1572073221439" duration="1275000" />
       <workItem from="1572184952392" duration="1542000" />
+      <workItem from="1572223345580" duration="1302000" />
     </task>
     <task id="LOCAL-00001" summary="新增mainclass测试">
       <created>1570535511083</created>
