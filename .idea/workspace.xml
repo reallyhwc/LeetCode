@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0111/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0111/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0111/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +173,8 @@
       <workItem from="1572073221439" duration="1275000" />
       <workItem from="1572184952392" duration="1542000" />
       <workItem from="1572223345580" duration="5558000" />
-      <workItem from="1572274233752" duration="639000" />
+      <workItem from="1572274233752" duration="760000" />
+      <workItem from="1572310014420" duration="1928000" />
     </task>
     <task id="LOCAL-00001" summary="新增mainclass测试">
       <created>1570535511083</created>
@@ -394,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572266014432</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="0111 二叉树的最小深度">
+      <created>1572274942479</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1572274942479</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,7 +421,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="easy 00014" />
     <MESSAGE value="easy 00020" />
     <MESSAGE value="easy 00021 合并两个有序链表" />
     <MESSAGE value="easy 00027 删除排序数组中的重复项" />
@@ -440,7 +445,8 @@
     <MESSAGE value="0107 二叉树遍历-添加注释" />
     <MESSAGE value="0108将有序数组转换为二叉搜索树" />
     <MESSAGE value="0110 平衡二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="0110 平衡二叉树" />
+    <MESSAGE value="0111 二叉树的最小深度" />
+    <option name="LAST_COMMIT_MESSAGE" value="0111 二叉树的最小深度" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
