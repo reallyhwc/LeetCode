@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0119/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0119/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0119/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0119/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -184,7 +182,7 @@
       <workItem from="1572349908991" duration="475000" />
       <workItem from="1572355899989" duration="2072000" />
       <workItem from="1572397117979" duration="618000" />
-      <workItem from="1572398598822" duration="3750000" />
+      <workItem from="1572398598822" duration="4438000" />
     </task>
     <task id="LOCAL-00001" summary="新增mainclass测试">
       <created>1570535511083</created>
@@ -445,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572418984193</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="0119 杨辉三角II">
+      <created>1572421731965</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1572421731965</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +472,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="easy 00035 搜索插入位置" />
     <MESSAGE value="easy 00038 报数" />
     <MESSAGE value="easy 00053 最大子序列和" />
     <MESSAGE value="easy 0066 加一" />
@@ -492,7 +496,8 @@
     <MESSAGE value="0118杨辉三角" />
     <MESSAGE value="提交gif" />
     <MESSAGE value="提交md" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交md" />
+    <MESSAGE value="0119 杨辉三角II" />
+    <option name="LAST_COMMIT_MESSAGE" value="0119 杨辉三角II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
