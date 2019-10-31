@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/0141-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/0141-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/0141-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0141/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0141/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0141/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0155/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0155/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0155/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0141" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0155" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
@@ -50,11 +45,11 @@
       <recent name="com.xuhu.LeetCode.easy0101" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0155" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0141" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0136" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0125" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0122" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0121" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -69,20 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy0121.Main" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy0121.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy0122.Main" />
       <module name="LeetCode" />
@@ -135,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy0155.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy0155.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +185,7 @@
       <workItem from="1572349908991" duration="475000" />
       <workItem from="1572355899989" duration="2072000" />
       <workItem from="1572397117979" duration="618000" />
-      <workItem from="1572398598822" duration="20581000" />
+      <workItem from="1572398598822" duration="23290000" />
     </task>
     <task id="LOCAL-00001" summary="新增mainclass测试">
       <created>1570535511083</created>
@@ -493,7 +488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572486507118</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="0141 环形链表  以及部分图片，ListNode公共类">
+      <created>1572521176566</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1572521176566</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,7 +517,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="easy 0069 x的平方根" />
     <MESSAGE value="easy 0070 爬楼梯" />
     <MESSAGE value="easy 0083 删除排序链表中的重复元素" />
     <MESSAGE value="0088合并两个有序数组" />
@@ -540,7 +541,8 @@
     <MESSAGE value="0122 买股票的最佳时机II" />
     <MESSAGE value="0125 验证回文串" />
     <MESSAGE value="0136 只出现一次的数组" />
-    <option name="LAST_COMMIT_MESSAGE" value="0136 只出现一次的数组" />
+    <MESSAGE value="0141 环形链表  以及部分图片，ListNode公共类" />
+    <option name="LAST_COMMIT_MESSAGE" value="0141 环形链表  以及部分图片，ListNode公共类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
