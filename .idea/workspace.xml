@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/0160-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/0160-02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/0160-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/0160-04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0160/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0160/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0160/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListNodeUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0160/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0160/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0160/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0160/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +64,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy0122.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy0160.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy0122.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy0160.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +185,9 @@
       <workItem from="1572349908991" duration="475000" />
       <workItem from="1572355899989" duration="2072000" />
       <workItem from="1572397117979" duration="618000" />
-      <workItem from="1572398598822" duration="24083000" />
+      <workItem from="1572398598822" duration="24663000" />
+      <workItem from="1572532562857" duration="1046000" />
+      <workItem from="1572568774285" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="新增mainclass测试">
       <created>1570535511083</created>
@@ -506,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572523952258</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="160 相交链表">
+      <created>1572524608993</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1572524608993</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,7 +533,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="easy 0083 删除排序链表中的重复元素" />
     <MESSAGE value="0088合并两个有序数组" />
     <MESSAGE value="0100相同的树" />
     <MESSAGE value="0088" />
@@ -553,7 +557,8 @@
     <MESSAGE value="0136 只出现一次的数组" />
     <MESSAGE value="0141 环形链表  以及部分图片，ListNode公共类" />
     <MESSAGE value="0155 最小栈" />
-    <option name="LAST_COMMIT_MESSAGE" value="0155 最小栈" />
+    <MESSAGE value="160 相交链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="160 相交链表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
