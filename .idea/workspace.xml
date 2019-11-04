@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0167/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0167/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0167/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0167/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0167/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0167/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0167/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +189,8 @@
       <workItem from="1572568774285" duration="1069000" />
       <workItem from="1572577218576" duration="766000" />
       <workItem from="1572601316610" duration="2095000" />
-      <workItem from="1572779256411" duration="665000" />
+      <workItem from="1572779256411" duration="761000" />
+      <workItem from="1572828030479" duration="2017000" />
     </task>
     <task id="LOCAL-00001" summary="新增mainclass测试">
       <created>1570535511083</created>
@@ -521,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572569072290</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="0167 两数之和 II - 输入有序数组-hashmap解法-耗时较长">
+      <created>1572787269719</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1572787269719</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -543,7 +550,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0100相同的树" />
     <MESSAGE value="0088" />
     <MESSAGE value="0100 相同的树" />
     <MESSAGE value="0101 对称二叉树" />
@@ -568,7 +574,8 @@
     <MESSAGE value="0155 最小栈" />
     <MESSAGE value="160 相交链表" />
     <MESSAGE value="160 相交链表 并添加了一个ListNode处理通用类" />
-    <option name="LAST_COMMIT_MESSAGE" value="160 相交链表 并添加了一个ListNode处理通用类" />
+    <MESSAGE value="0167 两数之和 II - 输入有序数组-hashmap解法-耗时较长" />
+    <option name="LAST_COMMIT_MESSAGE" value="0167 两数之和 II - 输入有序数组-hashmap解法-耗时较长" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
