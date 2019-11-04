@@ -5,5 +5,6 @@ public class Main {
         Solution solution = new Solution();
         System.out.println(solution.convertToTitle(701));
         System.out.println(solution.convertToTitle(1));
+        System.out.println(solution.convertToTitle(52));
     }
 }

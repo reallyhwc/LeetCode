@@ -8,14 +8,11 @@ class Solution {
             return null;
         }
         StringBuilder stringBuilder = new StringBuilder();
-        while (n > LETTER_NUM){
-            int nowChar = n % LETTER_NUM;
+        while (n > 0){
+            n--;
+            stringBuilder.append((char)(n % LETTER_NUM + 'A'));
             n /= LETTER_NUM;
-            char c = (char) ('A' + nowChar - 1);
-            stringBuilder.append(c);
         }
-        char c = (char) ('A' + n - 1);
-        stringBuilder.append(c);
         return stringBuilder.reverse().toString();
     }
 }

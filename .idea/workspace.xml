@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -191,14 +190,8 @@
       <workItem from="1572577218576" duration="766000" />
       <workItem from="1572601316610" duration="2095000" />
       <workItem from="1572779256411" duration="761000" />
-      <workItem from="1572828030479" duration="3355000" />
-    </task>
-    <task id="LOCAL-00001" summary="新增mainclass测试">
-      <created>1570535511083</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1570535511083</updated>
+      <workItem from="1572828030479" duration="3522000" />
+      <workItem from="1572878788228" duration="390000" />
     </task>
     <task id="LOCAL-00002" summary="新增mainclass测试">
       <created>1570536360979</created>
@@ -536,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572869047880</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="0167Excel表列名称">
+      <created>1572870383403</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1572870383404</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +558,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0100 相同的树" />
     <MESSAGE value="0101 对称二叉树" />
     <MESSAGE value="添加公共类TreeNode以及array转换成TreeNode的方法，并对某些题解进行转换测试" />
     <MESSAGE value="0104 二叉树的深度" />
@@ -583,7 +582,8 @@
     <MESSAGE value="160 相交链表 并添加了一个ListNode处理通用类" />
     <MESSAGE value="0167 两数之和 II - 输入有序数组-hashmap解法-耗时较长" />
     <MESSAGE value="0167 两数之和 II - 输入有序数组--双指针两头逼近" />
-    <option name="LAST_COMMIT_MESSAGE" value="0167 两数之和 II - 输入有序数组--双指针两头逼近" />
+    <MESSAGE value="0167Excel表列名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="0167Excel表列名称" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
