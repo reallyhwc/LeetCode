@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="0167 Excel表列名称">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0169/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0169/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0169/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,24 +32,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0168" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0169" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\workSpace\usuallyWork\LeetCode" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0169" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0168" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0167" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0160" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0155" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xuhu.LeetCode.a.util" />
       <recent name="com.xuhu.LeetCode.easy0101" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0168" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0167" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0160" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0155" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy0141" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -63,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy0160.Main" />
       <module name="LeetCode" />
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy0168.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy0169.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy0168.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy0169.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy0141.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy0168.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy0141.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy0168.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -191,14 +192,8 @@
       <workItem from="1572601316610" duration="2095000" />
       <workItem from="1572779256411" duration="761000" />
       <workItem from="1572828030479" duration="3522000" />
-      <workItem from="1572878788228" duration="390000" />
-    </task>
-    <task id="LOCAL-00002" summary="新增mainclass测试">
-      <created>1570536360979</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1570536360979</updated>
+      <workItem from="1572878788228" duration="569000" />
+      <workItem from="1572956619328" duration="346000" />
     </task>
     <task id="LOCAL-00003" summary="easy 0001 map解决">
       <created>1570588186040</created>
@@ -536,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572870383404</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="0167 Excel表列名称">
+      <created>1572879249363</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1572879249364</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -558,7 +560,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0101 对称二叉树" />
     <MESSAGE value="添加公共类TreeNode以及array转换成TreeNode的方法，并对某些题解进行转换测试" />
     <MESSAGE value="0104 二叉树的深度" />
     <MESSAGE value="0107 二叉树遍历-添加注释" />
@@ -583,7 +584,8 @@
     <MESSAGE value="0167 两数之和 II - 输入有序数组-hashmap解法-耗时较长" />
     <MESSAGE value="0167 两数之和 II - 输入有序数组--双指针两头逼近" />
     <MESSAGE value="0167Excel表列名称" />
-    <option name="LAST_COMMIT_MESSAGE" value="0167Excel表列名称" />
+    <MESSAGE value="0167 Excel表列名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="0167 Excel表列名称" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
