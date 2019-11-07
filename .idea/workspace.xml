@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0189/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0189/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0189/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0189/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy0189/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -197,14 +195,9 @@
       <workItem from="1572957175206" duration="31000" />
       <workItem from="1573000807776" duration="603000" />
       <workItem from="1573010896747" duration="613000" />
-      <workItem from="1573034341518" duration="4964000" />
-    </task>
-    <task id="LOCAL-00006" summary="easy 00013">
-      <created>1570708197994</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1570708197994</updated>
+      <workItem from="1573034341518" duration="5480000" />
+      <workItem from="1573087449938" duration="611000" />
+      <workItem from="1573137665007" duration="96000" />
     </task>
     <task id="LOCAL-00007" summary="easy 00014">
       <created>1570709577025</created>
@@ -542,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573037943570</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="0189 旋转数组">
+      <created>1573043162823</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1573043162823</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,7 +564,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0108将有序数组转换为二叉搜索树" />
     <MESSAGE value="0110 平衡二叉树" />
     <MESSAGE value="0111 二叉树的最小深度" />
     <MESSAGE value="更新readme文档" />
@@ -589,7 +588,8 @@
     <MESSAGE value="## 0169 求众数" />
     <MESSAGE value="## 0171 excel表列序号" />
     <MESSAGE value="## 0172 阶乘后的0" />
-    <option name="LAST_COMMIT_MESSAGE" value="## 0172 阶乘后的0" />
+    <MESSAGE value="0189 旋转数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="0189 旋转数组" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
