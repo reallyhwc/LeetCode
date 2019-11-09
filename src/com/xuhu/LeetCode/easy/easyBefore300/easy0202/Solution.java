@@ -10,10 +10,9 @@ class Solution {
         }
         int sum = Method(n);
         Map<Integer,Integer> map = new HashMap<>();
-        map.put(n,n);
         //对于每次计算后的数填充进 map中，一旦map中出现了重复的数字，则代表进入了一个循环，直接跳出
         //当然，与N相同也是
-        while (sum != 1 &&!map.containsKey(sum)){
+        while (sum != 1 && sum != n && !map.containsKey(sum)){
             map.put(sum,sum);
             sum = Method(sum);
         }
