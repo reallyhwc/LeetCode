@@ -17,4 +17,18 @@ public class ListNodeUtil {
             node = node.next;
         }
     }
+
+    public static ListNode convertArrayToListNode(int[] array){
+        if(null == array || array.length == 0){
+            return null;
+        }
+        ListNode temp = new ListNode(array[0]);
+        ListNode result = temp;
+        for(int i = 1; i < array.length; i++){
+            ListNode node = new ListNode(array[i]);
+            temp.next = node;
+            temp = temp.next;
+        }
+        return result;
+    }
 }
