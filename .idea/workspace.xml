@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0232/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0232/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0232/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0232/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0232/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0232/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0232/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0232/MyQueue.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore300.easy0225.Main" />
       <module name="LeetCode" />
@@ -105,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore300.easy0217.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore300.easy0232.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore300.easy0217.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore300.easy0232.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -257,13 +255,12 @@
       <workItem from="1574209885734" duration="1843000" />
       <workItem from="1574260069213" duration="893000" />
       <workItem from="1574296321784" duration="727000" />
-    </task>
-    <task id="LOCAL-00026" summary="0101 对称二叉树">
-      <created>1572060073567</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1572060073567</updated>
+      <workItem from="1574346570736" duration="306000" />
+      <workItem from="1574383709654" duration="614000" />
+      <workItem from="1574475587118" duration="735000" />
+      <workItem from="1574486744682" duration="642000" />
+      <workItem from="1574642628166" duration="613000" />
+      <workItem from="1574728758044" duration="1633000" />
     </task>
     <task id="LOCAL-00027" summary="添加公共类TreeNode以及array转换成TreeNode的方法，并对某些题解进行转换测试">
       <created>1572069401113</created>
@@ -601,7 +598,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574260868420</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="0232 用栈实现队列">
+      <created>1574346613844</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1574346613845</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +627,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="160 相交链表" />
     <MESSAGE value="160 相交链表 并添加了一个ListNode处理通用类" />
     <MESSAGE value="0167 两数之和 II - 输入有序数组-hashmap解法-耗时较长" />
     <MESSAGE value="0167 两数之和 II - 输入有序数组--双指针两头逼近" />
@@ -648,7 +651,8 @@
     <MESSAGE value="0225 用队列实现栈" />
     <MESSAGE value="0226 反转二叉树" />
     <MESSAGE value="0231 2的幂" />
-    <option name="LAST_COMMIT_MESSAGE" value="0231 2的幂" />
+    <MESSAGE value="0232 用栈实现队列" />
+    <option name="LAST_COMMIT_MESSAGE" value="0232 用栈实现队列" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
