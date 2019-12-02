@@ -23,6 +23,8 @@ class Solution {
         return list;
     }
 
+
+    //通过方法递归左右子树，并填充进最后的返回值中去
     public void Method(TreeNode node, String str, List<String> list){
         if(node == null){
             return;
