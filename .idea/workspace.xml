@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0257/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0257/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0258/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0258/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0258/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,17 +32,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0257" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0258" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0258" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0257" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0242" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0237" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0235" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0234" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xuhu.LeetCode.a.util" />
@@ -61,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore300.easy0242.Main" />
       <module name="LeetCode" />
@@ -81,19 +84,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore300.easy0257.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore300.easy0232.Main" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore300.easy0232.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +117,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore300.easy0258.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore300.easy0258.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (6)" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -225,14 +228,7 @@
       <workItem from="1574901612318" duration="2480000" />
       <workItem from="1574927278730" duration="643000" />
       <workItem from="1574996803860" duration="4621000" />
-      <workItem from="1575248420928" duration="5629000" />
-    </task>
-    <task id="LOCAL-00033" summary="更新readme文档">
-      <created>1572337132622</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1572337132622</updated>
+      <workItem from="1575248420928" duration="6259000" />
     </task>
     <task id="LOCAL-00034" summary="## 路径总和">
       <created>1572356574971</created>
@@ -570,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575287291711</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="0257 二叉树的所有路径">
+      <created>1575287336539</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1575287336539</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
