@@ -1,4 +1,4 @@
-package com.xuhu.LeetCode.easy.easyBefore300.easy02683;
+package com.xuhu.LeetCode.easy.easyBefore300.easy0283;
 
 
 /**

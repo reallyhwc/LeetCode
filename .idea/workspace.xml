@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy02683/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy02683/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy02683/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy02683/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0283/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy02683/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0283/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy02683/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0283/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore300.easy02683.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore300.easy0283.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore300.easy02683.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore300.easy0283.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,14 +230,8 @@
       <workItem from="1574996803860" duration="4621000" />
       <workItem from="1575248420928" duration="6259000" />
       <workItem from="1575296566296" duration="497000" />
-      <workItem from="1575334506128" duration="4880000" />
-    </task>
-    <task id="LOCAL-00037" summary="提交md">
-      <created>1572418984193</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1572418984193</updated>
+      <workItem from="1575334506128" duration="4925000" />
+      <workItem from="1575378858281" duration="244000" />
     </task>
     <task id="LOCAL-00038" summary="0119 杨辉三角II">
       <created>1572421731965</created>
@@ -575,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575373310572</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="0283 移动0">
+      <created>1575374351279</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1575374351279</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,7 +598,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0189 旋转数组" />
     <MESSAGE value="0190 颠倒二进制位" />
     <MESSAGE value="0191 位1的个数" />
     <MESSAGE value="0198 打家劫舍" />
@@ -622,7 +622,8 @@
     <MESSAGE value="0258 各位相加" />
     <MESSAGE value="0263 丑数" />
     <MESSAGE value="0268 缺失数字" />
-    <option name="LAST_COMMIT_MESSAGE" value="0268 缺失数字" />
+    <MESSAGE value="0283 移动0" />
+    <option name="LAST_COMMIT_MESSAGE" value="0283 移动0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
