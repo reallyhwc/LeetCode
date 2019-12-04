@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0290/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0290/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0290/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0292/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0292/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0292/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,24 +32,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0290" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0292" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\workSpace\usuallyWork\LeetCode" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0292" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0290" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy02683" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0268" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0263" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xuhu.LeetCode.a.util" />
       <recent name="com.xuhu.LeetCode.easy0101" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0290" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy02683" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0268" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0263" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore300\easy0258" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -133,7 +133,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
@@ -231,14 +230,8 @@
       <workItem from="1575248420928" duration="6259000" />
       <workItem from="1575296566296" duration="497000" />
       <workItem from="1575334506128" duration="4925000" />
-      <workItem from="1575378858281" duration="2152000" />
-    </task>
-    <task id="LOCAL-00039" summary="添加注释">
-      <created>1572422424531</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1572422424531</updated>
+      <workItem from="1575378858281" duration="2811000" />
+      <workItem from="1575419688809" duration="1639000" />
     </task>
     <task id="LOCAL-00040" summary="0121 买股票的最佳时机">
       <created>1572427010162</created>
@@ -576,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575379159071</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="0290 单词规律">
+      <created>1575381171456</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1575381171456</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +598,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0191 位1的个数" />
     <MESSAGE value="0198 打家劫舍" />
     <MESSAGE value="移动文件夹位置" />
     <MESSAGE value="0202 快乐数" />
@@ -623,7 +622,8 @@
     <MESSAGE value="0268 缺失数字" />
     <MESSAGE value="0283 移动0" />
     <MESSAGE value="Rename" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename" />
+    <MESSAGE value="0290 单词规律" />
+    <option name="LAST_COMMIT_MESSAGE" value="0290 单词规律" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
