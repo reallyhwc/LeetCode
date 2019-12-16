@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore400/easy0349/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore400/easy0349/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore400/easy0349/readme.md" afterDir="false" />
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="0350 两个数组的交集 II">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore400/easy0350/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore400/easy0350/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore400/easy0350/readme.md" afterDir="false" />
@@ -67,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore400.easy0345.Main" />
       <module name="LeetCode" />
@@ -107,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore400.easy0326.Main" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore400.easy0350.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore400.easy0326.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore400.easy0350.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -240,14 +238,7 @@
       <workItem from="1575592381266" duration="1153000" />
       <workItem from="1575852429146" duration="2908000" />
       <workItem from="1576059609899" duration="1674000" />
-      <workItem from="1576493566695" duration="3032000" />
-    </task>
-    <task id="LOCAL-00047" summary="160 相交链表 并添加了一个ListNode处理通用类">
-      <created>1572569072289</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1572569072290</updated>
+      <workItem from="1576493566695" duration="3875000" />
     </task>
     <task id="LOCAL-00048" summary="0167 两数之和 II - 输入有序数组-hashmap解法-耗时较长">
       <created>1572787269719</created>
@@ -585,7 +576,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576493612080</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="0349 两个数组的交集">
+      <created>1576496613429</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1576496613429</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,8 +605,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0206 翻转链表" />
-    <MESSAGE value="## 0207 存在重复元素" />
     <MESSAGE value="0219 存在重复元素II" />
     <MESSAGE value="0225 用队列实现栈" />
     <MESSAGE value="0226 反转二叉树" />
@@ -632,7 +628,9 @@
     <MESSAGE value="0342 4的幂" />
     <MESSAGE value="## 0344  反转字符串" />
     <MESSAGE value="0345 反转字符串中的元音字母" />
-    <option name="LAST_COMMIT_MESSAGE" value="0345 反转字符串中的元音字母" />
+    <MESSAGE value="0349 两个数组的交集" />
+    <MESSAGE value="0350 两个数组的交集 II" />
+    <option name="LAST_COMMIT_MESSAGE" value="0350 两个数组的交集 II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
