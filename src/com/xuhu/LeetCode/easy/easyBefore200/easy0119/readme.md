@@ -8,7 +8,7 @@
 
 示例:
 
-![image](https://github.com/reallyhwc/LeetCode/blob/master/resources/PascalTriangleAnimated2.gif)
+![image](https://raw.githubusercontent.com/reallyhwc/LeetCode/master/resources/PascalTriangleAnimated2.gif)
 
 输入: 3
 输出: [1,3,3,1]

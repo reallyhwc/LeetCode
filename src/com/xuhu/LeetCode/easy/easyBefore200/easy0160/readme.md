@@ -3,7 +3,7 @@
 
 如下面的两个链表：
 
-![image](https://github.com/reallyhwc/LeetCode/blob/master/resources/0160-01.png)
+![image](https://raw.githubusercontent.com/reallyhwc/LeetCode/master/resources/0160-01.png)
 
 在节点 c1 开始相交。
 
@@ -11,7 +11,7 @@
 
 示例 1：
 
-![image](https://github.com/reallyhwc/LeetCode/blob/master/resources/0160-02.png)
+![image](https://raw.githubusercontent.com/reallyhwc/LeetCode/master/resources/0160-02.png)
 
 输入：intersectVal = 8, listA = [4,1,8,4,5], listB = [5,0,1,8,4,5], skipA = 2, skipB = 3
 
@@ -22,7 +22,7 @@
 
 示例 2：
 
-![image](https://github.com/reallyhwc/LeetCode/blob/master/resources/0160-03.png)
+![image](https://raw.githubusercontent.com/reallyhwc/LeetCode/master/resources/0160-03.png)
 
 输入：intersectVal = 2, listA = [0,9,1,2,4], listB = [3,2,4], skipA = 3, skipB = 1
 
@@ -33,7 +33,7 @@
 
 示例 3：
 
-![image](https://github.com/reallyhwc/LeetCode/blob/master/resources/0160-04.png)
+![image](https://raw.githubusercontent.com/reallyhwc/LeetCode/master/resources/0160-04.png)
 
 输入：intersectVal = 0, listA = [2,6,4], listB = [1,5], skipA = 3, skipB = 2
 

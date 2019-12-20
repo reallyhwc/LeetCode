@@ -8,7 +8,7 @@
 
 示例 1：
 
-![image](https://github.com/reallyhwc/LeetCode/blob/master/resources/0141-01.png)
+![image](https://raw.githubusercontent.com/reallyhwc/LeetCode/master/resources/0141-01.png)
 
 输入：head = [3,2,0,-4], pos = 1
 
@@ -19,7 +19,7 @@
 
 示例 2：
 
-![image](https://github.com/reallyhwc/LeetCode/blob/master/resources/0141-02.png)
+![image](https://raw.githubusercontent.com/reallyhwc/LeetCode/master/resources/0141-02.png)
 
 输入：head = [1,2], pos = 0
 
@@ -30,7 +30,7 @@
 
 示例 3：
 
-![image](https://github.com/reallyhwc/LeetCode/blob/master/resources/0141-03.png)
+![image](https://raw.githubusercontent.com/reallyhwc/LeetCode/master/resources/0141-03.png)
 
 输入：head = [1], pos = -1
 
