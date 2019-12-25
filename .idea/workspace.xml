@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0405/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0405/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0405/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0405/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0405/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -245,14 +243,8 @@
       <workItem from="1576804440948" duration="2634000" />
       <workItem from="1577061698702" duration="4469000" />
       <workItem from="1577149701853" duration="2089000" />
-      <workItem from="1577189040237" duration="1514000" />
-    </task>
-    <task id="LOCAL-00059" summary="0198 打家劫舍">
-      <created>1573269064299</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1573269064300</updated>
+      <workItem from="1577189040237" duration="1531000" />
+      <workItem from="1577234428703" duration="718000" />
     </task>
     <task id="LOCAL-00060" summary="移动文件夹位置">
       <created>1573269354333</created>
@@ -590,7 +582,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577103622049</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="0405 数字转换为十六进制数">
+      <created>1577194090737</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1577194090739</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -612,7 +611,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0258 各位相加" />
     <MESSAGE value="0263 丑数" />
     <MESSAGE value="0268 缺失数字" />
     <MESSAGE value="0283 移动0" />
@@ -637,7 +635,8 @@
     <MESSAGE value="调整引用GitHub图片" />
     <MESSAGE value="0401 二进制手表" />
     <MESSAGE value="0404 左叶子之和" />
-    <option name="LAST_COMMIT_MESSAGE" value="0404 左叶子之和" />
+    <MESSAGE value="0405 数字转换为十六进制数" />
+    <option name="LAST_COMMIT_MESSAGE" value="0405 数字转换为十六进制数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
