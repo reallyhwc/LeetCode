@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0415/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0415/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0415/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0415/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0415/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -257,14 +255,7 @@
       <workItem from="1578271575117" duration="2453000" />
       <workItem from="1578307659169" duration="2073000" />
       <workItem from="1578319103849" duration="599000" />
-      <workItem from="1578357432081" duration="2025000" />
-    </task>
-    <task id="LOCAL-00064" summary="0202 快乐数 修改注释">
-      <created>1573271889894</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1573271889894</updated>
+      <workItem from="1578357432081" duration="3378000" />
     </task>
     <task id="LOCAL-00065" summary="0202 快乐数 优化代码">
       <created>1573272039772</created>
@@ -602,7 +593,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578285300481</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="0415 字符串相加">
+      <created>1578398769473</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1578398769473</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,7 +622,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Rename" />
     <MESSAGE value="0290 单词规律" />
     <MESSAGE value="0292 Nim游戏" />
     <MESSAGE value="0299 猜数字游戏" />
@@ -649,7 +646,8 @@
     <MESSAGE value="0409 最长回文串" />
     <MESSAGE value="0412 Five Buzz" />
     <MESSAGE value="0414 第三大的数" />
-    <option name="LAST_COMMIT_MESSAGE" value="0414 第三大的数" />
+    <MESSAGE value="0415 字符串相加" />
+    <option name="LAST_COMMIT_MESSAGE" value="0415 字符串相加" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
