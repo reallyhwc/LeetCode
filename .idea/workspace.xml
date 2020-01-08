@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0434/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0434/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0434/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0434/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0434/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -258,14 +256,8 @@
       <workItem from="1578307659169" duration="2073000" />
       <workItem from="1578319103849" duration="599000" />
       <workItem from="1578357432081" duration="3466000" />
-      <workItem from="1578407006728" duration="407000" />
-    </task>
-    <task id="LOCAL-00066" summary="0204 计数质数">
-      <created>1573648276144</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1573648276145</updated>
+      <workItem from="1578407006728" duration="518000" />
+      <workItem from="1578445831554" duration="1562000" />
     </task>
     <task id="LOCAL-00067" summary="0205 同构字符串">
       <created>1573657625258</created>
@@ -603,7 +595,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578400124149</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="0434 字符串中的单词数">
+      <created>1578407462310</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1578407462311</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +624,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0290 单词规律" />
     <MESSAGE value="0292 Nim游戏" />
     <MESSAGE value="0299 猜数字游戏" />
     <MESSAGE value="0303 区域和检索 - 数组不可变" />
@@ -650,7 +648,8 @@
     <MESSAGE value="0412 Five Buzz" />
     <MESSAGE value="0414 第三大的数" />
     <MESSAGE value="0415 字符串相加" />
-    <option name="LAST_COMMIT_MESSAGE" value="0415 字符串相加" />
+    <MESSAGE value="0434 字符串中的单词数" />
+    <option name="LAST_COMMIT_MESSAGE" value="0434 字符串中的单词数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
