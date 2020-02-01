@@ -5,6 +5,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Solution {
+    /**
+     * 思路： 从前到后走一遍当前数组
+     * 把下表为|nums[i]|的变为负数 知道最后再走一遍整个数组，还为正数的，即为数组中没有出现过的数字
+     *
+     * @param nums nums
+     * @return List - 数组中没有出现过的数字
+     */
     public List<Integer> findDisappearedNumbers(int[] nums) {
         if(null == nums || nums.length == 0){
             return new ArrayList<>();

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0448/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0448/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0448/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0448/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0448/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -271,14 +269,10 @@
       <workItem from="1579164513786" duration="692000" />
       <workItem from="1579226834385" duration="1222000" />
       <workItem from="1579250705183" duration="625000" />
-      <workItem from="1579261450214" duration="1912000" />
-    </task>
-    <task id="LOCAL-00072" summary="0225 用队列实现栈">
-      <created>1574172968436</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1574172968437</updated>
+      <workItem from="1579261450214" duration="2017000" />
+      <workItem from="1579395756690" duration="1208000" />
+      <workItem from="1579481071013" duration="615000" />
+      <workItem from="1580527759936" duration="219000" />
     </task>
     <task id="LOCAL-00073" summary="0226 反转二叉树">
       <created>1574260416645</created>
@@ -616,7 +610,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578825884668</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="0448 找出数组中消失的数字">
+      <created>1579263806058</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1579263806059</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,7 +639,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0342 4的幂" />
     <MESSAGE value="## 0344  反转字符串" />
     <MESSAGE value="0345 反转字符串中的元音字母" />
     <MESSAGE value="0349 两个数组的交集" />
@@ -663,7 +663,8 @@
     <MESSAGE value="0441 排列硬币" />
     <MESSAGE value="0443 压缩字符串" />
     <MESSAGE value="0447 回旋镖的数量" />
-    <option name="LAST_COMMIT_MESSAGE" value="0447 回旋镖的数量" />
+    <MESSAGE value="0448 找出数组中消失的数字" />
+    <option name="LAST_COMMIT_MESSAGE" value="0448 找出数组中消失的数字" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
