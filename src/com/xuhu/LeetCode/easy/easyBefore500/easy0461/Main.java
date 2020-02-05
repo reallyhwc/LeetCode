@@ -1,4 +1,4 @@
-package com.xuhu.LeetCode.easy.easyBefore500.easy04561;
+package com.xuhu.LeetCode.easy.easyBefore500.easy0461;
 
 public class Main {
     public static void main(String[] args){
