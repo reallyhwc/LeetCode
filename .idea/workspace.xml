@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy04561/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy04561/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy04561/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0463/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0463/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0463/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy04561" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0463" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
@@ -46,11 +46,11 @@
       <recent name="com.xuhu.LeetCode.easy0101" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy0463" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy04561" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy0459" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy0455" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy0453" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy0448" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -72,6 +72,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore500.easy0459.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore500.easy0463.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore500.easy0463.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,21 +291,11 @@
       <workItem from="1580527759936" duration="1622000" />
       <workItem from="1580632955049" duration="2662000" />
       <workItem from="1580709177708" duration="1730000" />
-      <workItem from="1580714097404" duration="11768000" />
-    </task>
-    <task id="LOCAL-00077" summary="0234 回文联表">
-      <created>1574767247432</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1574767247432</updated>
-    </task>
-    <task id="LOCAL-00078" summary="0235 二叉搜索树的公共祖先">
-      <created>1574864077103</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1574864077104</updated>
+      <workItem from="1580714097404" duration="13710000" />
+      <workItem from="1581034936495" duration="1376000" />
+      <workItem from="1581240767510" duration="778000" />
+      <workItem from="1581293074800" duration="1894000" />
+      <workItem from="1581409527924" duration="1165000" />
     </task>
     <task id="LOCAL-00079" summary="0237 删除链表中的元素">
       <created>1574925724157</created>
@@ -623,7 +626,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580818140868</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="0461 汉明距离">
+      <created>1580908903614</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1580908903614</updated>
+    </task>
+    <task id="LOCAL-00127" summary="0461 汉明距离">
+      <created>1580908936892</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1580908936892</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -645,7 +662,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0350 两个数组的交集 II" />
     <MESSAGE value="0367有效的完全平方数" />
     <MESSAGE value="0371 两整数之和" />
     <MESSAGE value="0374 猜数字大小" />
@@ -670,7 +686,8 @@
     <MESSAGE value="0453 最小移动次数使数组元素相等" />
     <MESSAGE value="0455 分发饼干" />
     <MESSAGE value="0459 重复的子字符串" />
-    <option name="LAST_COMMIT_MESSAGE" value="0459 重复的子字符串" />
+    <MESSAGE value="0461 汉明距离" />
+    <option name="LAST_COMMIT_MESSAGE" value="0461 汉明距离" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -749,6 +766,11 @@
           <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0459/Solution.java</url>
           <line>17</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0463/Solution.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
