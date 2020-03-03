@@ -19,4 +19,10 @@ public class ListUtils {
             System.out.println(X);
         }
     }
+
+    public static void printlnStrs(String[] strings){
+        for(String str : strings){
+            System.out.println(str);
+        }
+    }
 }
