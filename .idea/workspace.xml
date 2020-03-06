@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0500/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0500/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0500/readme.md" afterDir="false" />
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="0501 二叉搜索树中的众数">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0501/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0501/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0501/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0500" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0501" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
@@ -47,11 +46,11 @@
       <recent name="com.xuhu.LeetCode.easy0101" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore600\easy0501" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy0500" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy0496" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy0492" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy0485" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore500\easy0482" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -66,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore500.easy0492.Main" />
       <module name="LeetCode" />
@@ -119,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore500.easy0482.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore600.easy0501.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore500.easy0482.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore600.easy0501.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -303,21 +302,7 @@
       <workItem from="1581898729305" duration="2111000" />
       <workItem from="1582039327780" duration="599000" />
       <workItem from="1583138399870" duration="4839000" />
-      <workItem from="1583239149213" duration="1776000" />
-    </task>
-    <task id="LOCAL-00086" summary="0283 移动0">
-      <created>1575374351279</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1575374351279</updated>
-    </task>
-    <task id="LOCAL-00087" summary="Rename">
-      <created>1575379159070</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1575379159071</updated>
+      <workItem from="1583239149213" duration="5070000" />
     </task>
     <task id="LOCAL-00088" summary="0290 单词规律">
       <created>1575381171456</created>
@@ -648,7 +633,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583239178138</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="工具类增加输出String数组">
+      <created>1583241120797</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1583241120798</updated>
+    </task>
+    <task id="LOCAL-00136" summary="0500 键盘行">
+      <created>1583241129897</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1583241129897</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,8 +669,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="调整引用GitHub图片" />
-    <MESSAGE value="0401 二进制手表" />
     <MESSAGE value="0404 左叶子之和" />
     <MESSAGE value="0405 数字转换为十六进制数" />
     <MESSAGE value="0409 最长回文串" />
@@ -695,7 +692,9 @@
     <MESSAGE value="0485 最大连续1的个数" />
     <MESSAGE value="0492 构造矩形" />
     <MESSAGE value="0496 下一个更大元素" />
-    <option name="LAST_COMMIT_MESSAGE" value="0496 下一个更大元素" />
+    <MESSAGE value="工具类增加输出String数组" />
+    <MESSAGE value="0500 键盘行" />
+    <option name="LAST_COMMIT_MESSAGE" value="0500 键盘行" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -794,6 +793,16 @@
           <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0496/Solution.java</url>
           <line>9</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0500/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore500/easy0500/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
