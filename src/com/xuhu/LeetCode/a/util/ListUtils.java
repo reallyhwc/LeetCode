@@ -14,6 +14,15 @@ public class ListUtils {
         }
     }
 
+    public static  void pringlnDoubleArrays(int[][] array){
+        for(int[] X : array){
+            for(int num : X){
+                System.out.print(num + "\t");
+            }
+            System.out.println();
+        }
+    }
+
     public static  void pringlnList(List list){
         for(Object X : list){
             System.out.println(X);
