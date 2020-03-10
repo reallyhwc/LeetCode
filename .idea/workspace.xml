@@ -6,7 +6,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0566/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0566/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -292,14 +291,7 @@
       <workItem from="1583138399870" duration="4839000" />
       <workItem from="1583239149213" duration="5070000" />
       <workItem from="1583465537437" duration="4663000" />
-      <workItem from="1583670304698" duration="37037000" />
-    </task>
-    <task id="LOCAL-00104" summary="0392 判断子序列">
-      <created>1576827578213</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1576827578213</updated>
+      <workItem from="1583670304698" duration="38413000" />
     </task>
     <task id="LOCAL-00105" summary="调整引用GitHub图片">
       <created>1576828476247</created>
@@ -637,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583831989105</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="给出打印二维数组通用方法">
+      <created>1583834043218</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1583834043218</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -659,7 +658,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0463 岛屿的周长" />
     <MESSAGE value="0475 供暖器" />
     <MESSAGE value="0476 数字的补数" />
     <MESSAGE value="0482 格式化秘钥" />
@@ -684,7 +682,8 @@
     <MESSAGE value="0559 N叉树的最大深度" />
     <MESSAGE value="0561 数组拆分I" />
     <MESSAGE value="0563 二叉树的坡度" />
-    <option name="LAST_COMMIT_MESSAGE" value="0563 二叉树的坡度" />
+    <MESSAGE value="给出打印二维数组通用方法" />
+    <option name="LAST_COMMIT_MESSAGE" value="给出打印二维数组通用方法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
