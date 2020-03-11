@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0598/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0598/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0598/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0599/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0599/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore600/easy0599/readme.md" afterDir="false" />
@@ -68,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore600.easy0594.Main" />
       <module name="LeetCode" />
@@ -95,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore600.easy0581.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore600.easy0599.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore600.easy0581.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore600.easy0599.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -294,14 +291,7 @@
       <workItem from="1583138399870" duration="4839000" />
       <workItem from="1583239149213" duration="5070000" />
       <workItem from="1583465537437" duration="4663000" />
-      <workItem from="1583670304698" duration="54503000" />
-    </task>
-    <task id="LOCAL-00112" summary="0414 第三大的数">
-      <created>1578285300481</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1578285300481</updated>
+      <workItem from="1583670304698" duration="56776000" />
     </task>
     <task id="LOCAL-00113" summary="0415 字符串相加">
       <created>1578398769473</created>
@@ -639,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583929635928</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="0598 范围求和II">
+      <created>1583931784854</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1583931784854</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +658,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0500 键盘行" />
     <MESSAGE value="0501 二叉搜索树中的众数" />
     <MESSAGE value="0504 七进制数" />
     <MESSAGE value="0509 斐波那契数" />
@@ -686,7 +682,8 @@
     <MESSAGE value="0589 N叉数的前序遍历" />
     <MESSAGE value="0590 N叉树的后序遍历" />
     <MESSAGE value="0594 最长和谐子序列" />
-    <option name="LAST_COMMIT_MESSAGE" value="0594 最长和谐子序列" />
+    <MESSAGE value="0598 范围求和II" />
+    <option name="LAST_COMMIT_MESSAGE" value="0598 范围求和II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
