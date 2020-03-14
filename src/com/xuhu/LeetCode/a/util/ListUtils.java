@@ -34,4 +34,10 @@ public class ListUtils {
             System.out.println(str);
         }
     }
+
+    public static void pringlnBoolean(boolean[] array){
+        for(boolean b : array){
+            System.out.println(b);
+        }
+    }
 }
