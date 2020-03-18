@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore800/easy0747/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore800/easy0747/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore800/easy0747/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore800/easy0748/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore800/easy0748/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore800/easy0748/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,17 +38,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore800/easy0747" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore800/easy0748" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore800\easy0748" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore800\easy0747" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore800\easy0746" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore800\easy0744" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore800\easy0733" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore800\easy0728" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xuhu.LeetCode.a.util" />
@@ -70,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore800.easy0733.Main" />
       <module name="LeetCode" />
@@ -123,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore800.easy0728.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore800.easy0748.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore800.easy0728.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore800.easy0748.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -301,14 +301,7 @@
       <workItem from="1584319164996" duration="3878000" />
       <workItem from="1584357992902" duration="14876000" />
       <workItem from="1584431786466" duration="14478000" />
-      <workItem from="1584513783564" duration="2398000" />
-    </task>
-    <task id="LOCAL-00152" summary="0563 二叉树的坡度">
-      <created>1583831989104</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1583831989105</updated>
+      <workItem from="1584513783564" duration="6915000" />
     </task>
     <task id="LOCAL-00153" summary="给出打印二维数组通用方法">
       <created>1583834043218</created>
@@ -646,7 +639,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584514698943</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="0747 至少是其他数字两倍大的最大数">
+      <created>1584516188906</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1584516188906</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -668,7 +668,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0669 修建二叉搜索树" />
     <MESSAGE value="0671 二叉树的第二小的结点" />
     <MESSAGE value="0674 最长连续递增序列" />
     <MESSAGE value="0680 验证回文字符串II" />
@@ -693,7 +692,8 @@
     <MESSAGE value="0733 图像渲染" />
     <MESSAGE value="0744 寻找比目标字母大的最小字母" />
     <MESSAGE value="0746 使用最小花费爬楼梯" />
-    <option name="LAST_COMMIT_MESSAGE" value="0746 使用最小花费爬楼梯" />
+    <MESSAGE value="0747 至少是其他数字两倍大的最大数" />
+    <option name="LAST_COMMIT_MESSAGE" value="0747 至少是其他数字两倍大的最大数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
