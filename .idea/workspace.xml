@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy821/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy821/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy821/readme.md" afterDir="false" />
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="0821 字符的最短距离">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -302,14 +299,11 @@
       <workItem from="1584357992902" duration="14876000" />
       <workItem from="1584431786466" duration="14478000" />
       <workItem from="1584513783564" duration="14314000" />
-      <workItem from="1584600227542" duration="21078000" />
-    </task>
-    <task id="LOCAL-00166" summary="0628 三个数的最大乘积">
-      <created>1583995315561</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1583995315561</updated>
+      <workItem from="1584600227542" duration="21919000" />
+      <workItem from="1584925779117" duration="2223000" />
+      <workItem from="1585016646844" duration="612000" />
+      <workItem from="1585114791953" duration="616000" />
+      <workItem from="1585129605556" duration="977000" />
     </task>
     <task id="LOCAL-00167" summary="0633 平方数之和">
       <created>1583997436139</created>
@@ -647,7 +641,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584694929746</updated>
     </task>
-    <option name="localTasksCounter" value="215" />
+    <task id="LOCAL-00215" summary="0821 字符的最短距离">
+      <created>1584712074345</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1584712074345</updated>
+    </task>
+    <option name="localTasksCounter" value="216" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -669,7 +670,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0704 二分查找" />
     <MESSAGE value="0705 设计哈希集合" />
     <MESSAGE value="0706 设计哈希映射" />
     <MESSAGE value="0709 转换成小写字母" />
@@ -694,7 +694,8 @@
     <MESSAGE value="0811 子域名访问次数" />
     <MESSAGE value="0812 最大三角形面积" />
     <MESSAGE value="0819 最常见单词" />
-    <option name="LAST_COMMIT_MESSAGE" value="0819 最常见单词" />
+    <MESSAGE value="0821 字符的最短距离" />
+    <option name="LAST_COMMIT_MESSAGE" value="0821 字符的最短距离" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
