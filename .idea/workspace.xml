@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="0821 字符的最短距离">
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore1000/easy922/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore1000/easy922/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore1000/easy922/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy821" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore1000/easy922" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
@@ -48,11 +51,11 @@
       <recent name="com.xuhu.LeetCode.easy0101" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore900\easy821" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore900\easy819" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore900\easy812" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore900\easy811" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore900\easy806" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore1000\easy922" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore1000\easy917" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore1000\easy914" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore1000\easy908" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\easy\easyBefore1000\easy905" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -67,13 +70,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore900.easy806.Main" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore1000.easy917.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore900.easy806.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore1000.easy917.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore900.easy811.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore1000.easy922.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore900.easy811.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore1000.easy922.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +98,11 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore900.easy812.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore1000.easy905.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore900.easy812.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore1000.easy905.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore900.easy819.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore1000.easy908.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore900.easy819.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore1000.easy908.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +124,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore900.easy821.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.easy.easyBefore1000.easy914.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore900.easy821.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.easy.easyBefore1000.easy914.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -306,195 +309,20 @@
       <workItem from="1585129605556" duration="977000" />
       <workItem from="1585187784830" duration="355000" />
       <workItem from="1585188145717" duration="65000" />
-    </task>
-    <task id="LOCAL-00167" summary="0633 平方数之和">
-      <created>1583997436139</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1583997436139</updated>
-    </task>
-    <task id="LOCAL-00168" summary="0637 二叉树的层的平均值">
-      <created>1584016679192</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1584016679192</updated>
-    </task>
-    <task id="LOCAL-00169" summary="0643 子数组的最大平均数I">
-      <created>1584065191933</created>
-      <option name="number" value="00169" />
-      <option name="presentableId" value="LOCAL-00169" />
-      <option name="project" value="LOCAL" />
-      <updated>1584065191933</updated>
-    </task>
-    <task id="LOCAL-00170" summary="0645 错误的集合">
-      <created>1584082566506</created>
-      <option name="number" value="00170" />
-      <option name="presentableId" value="LOCAL-00170" />
-      <option name="project" value="LOCAL" />
-      <updated>1584082566506</updated>
-    </task>
-    <task id="LOCAL-00171" summary="0654 两数之和">
-      <created>1584084358866</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1584084358866</updated>
-    </task>
-    <task id="LOCAL-00172" summary="修正标题-easy0654">
-      <created>1584084409100</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1584084409100</updated>
-    </task>
-    <task id="LOCAL-00173" summary="0657 机器人能否返回原点">
-      <created>1584085323623</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1584085323623</updated>
-    </task>
-    <task id="LOCAL-00174" summary="0661 图片平滑器">
-      <created>1584092357561</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1584092357561</updated>
-    </task>
-    <task id="LOCAL-00175" summary="0665 非递减数列">
-      <created>1584098323194</created>
-      <option name="number" value="00175" />
-      <option name="presentableId" value="LOCAL-00175" />
-      <option name="project" value="LOCAL" />
-      <updated>1584098323194</updated>
-    </task>
-    <task id="LOCAL-00176" summary="0669 修建二叉搜索树">
-      <created>1584100000186</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1584100000186</updated>
-    </task>
-    <task id="LOCAL-00177" summary="0671 二叉树的第二小的结点">
-      <created>1584102482539</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1584102482539</updated>
-    </task>
-    <task id="LOCAL-00178" summary="0674 最长连续递增序列">
-      <created>1584107601447</created>
-      <option name="number" value="00178" />
-      <option name="presentableId" value="LOCAL-00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1584107601447</updated>
-    </task>
-    <task id="LOCAL-00179" summary="0680 验证回文字符串II">
-      <created>1584108818894</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1584108818894</updated>
-    </task>
-    <task id="LOCAL-00180" summary="0682 棒球比赛">
-      <created>1584162004009</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1584162004010</updated>
-    </task>
-    <task id="LOCAL-00181" summary="0686 重复叠加字符串匹配">
-      <created>1584170653635</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1584170653635</updated>
-    </task>
-    <task id="LOCAL-00182" summary="0687 最长同值路径">
-      <created>1584182899108</created>
-      <option name="number" value="00182" />
-      <option name="presentableId" value="LOCAL-00182" />
-      <option name="project" value="LOCAL" />
-      <updated>1584182899108</updated>
-    </task>
-    <task id="LOCAL-00183" summary="0690 员工的重要性">
-      <created>1584186049764</created>
-      <option name="number" value="00183" />
-      <option name="presentableId" value="LOCAL-00183" />
-      <option name="project" value="LOCAL" />
-      <updated>1584186049764</updated>
-    </task>
-    <task id="LOCAL-00184" summary="0693 交替位二进制数">
-      <created>1584187415290</created>
-      <option name="number" value="00184" />
-      <option name="presentableId" value="LOCAL-00184" />
-      <option name="project" value="LOCAL" />
-      <updated>1584187415290</updated>
-    </task>
-    <task id="LOCAL-00185" summary="0696 计数二进制子串">
-      <created>1584191156586</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1584191156586</updated>
-    </task>
-    <task id="LOCAL-00186" summary="0697 数组的度">
-      <created>1584195296685</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1584195296685</updated>
-    </task>
-    <task id="LOCAL-00187" summary="更新打印二叉树工具类判空">
-      <created>1584196034205</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1584196034205</updated>
-    </task>
-    <task id="LOCAL-00188" summary="0700 二叉搜索树中的搜索">
-      <created>1584196081154</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1584196081154</updated>
-    </task>
-    <task id="LOCAL-00189" summary="0703 数据流中第k大的元素">
-      <created>1584347498454</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1584347498454</updated>
-    </task>
-    <task id="LOCAL-00190" summary="0704 二分查找">
-      <created>1584361557974</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1584361557975</updated>
-    </task>
-    <task id="LOCAL-00191" summary="0705 设计哈希集合">
-      <created>1584366085176</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1584366085176</updated>
-    </task>
-    <task id="LOCAL-00192" summary="0706 设计哈希映射">
-      <created>1584409830247</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1584409830247</updated>
-    </task>
-    <task id="LOCAL-00193" summary="0709 转换成小写字母">
-      <created>1584410426849</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1584410426849</updated>
+      <workItem from="1585188216511" duration="894000" />
+      <workItem from="1585226566410" duration="2956000" />
+      <workItem from="1585270843937" duration="609000" />
+      <workItem from="1585529026730" duration="977000" />
+      <workItem from="1585614930402" duration="1202000" />
+      <workItem from="1585701851881" duration="1231000" />
+      <workItem from="1585745009693" duration="5448000" />
+      <workItem from="1585787770589" duration="612000" />
+      <workItem from="1585793331659" duration="606000" />
+      <workItem from="1585874920669" duration="623000" />
+      <workItem from="1586091693466" duration="18411000" />
+      <workItem from="1586219834822" duration="6093000" />
+      <workItem from="1586264298105" duration="3156000" />
+      <workItem from="1586306585235" duration="3553000" />
     </task>
     <task id="LOCAL-00194" summary="0717 1比特和2比特字符">
       <created>1584413037082</created>
@@ -650,7 +478,196 @@
       <option name="project" value="LOCAL" />
       <updated>1584712074345</updated>
     </task>
-    <option name="localTasksCounter" value="216" />
+    <task id="LOCAL-00216" summary="test">
+      <created>1585188454048</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1585188454048</updated>
+    </task>
+    <task id="LOCAL-00217" summary="0824 山羊拉丁文">
+      <created>1585231828509</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1585231828510</updated>
+    </task>
+    <task id="LOCAL-00218" summary="0830 较大分组的位置">
+      <created>1585749324765</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
+      <option name="project" value="LOCAL" />
+      <updated>1585749324765</updated>
+    </task>
+    <task id="LOCAL-00219" summary="0832 翻转图像">
+      <created>1585749862727</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1585749862727</updated>
+    </task>
+    <task id="LOCAL-00220" summary="0836 矩形重叠">
+      <created>1585750640874</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1585750640874</updated>
+    </task>
+    <task id="LOCAL-00221" summary="0840 矩阵中的幻方">
+      <created>1586091885719</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1586091885720</updated>
+    </task>
+    <task id="LOCAL-00222" summary="0844 比较含退格的字符串">
+      <created>1586097347513</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1586097347513</updated>
+    </task>
+    <task id="LOCAL-00223" summary="0849 到最近人的最大距离">
+      <created>1586099940424</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1586099940425</updated>
+    </task>
+    <task id="LOCAL-00224" summary="0852 山脉数组的巅峰索引">
+      <created>1586100231016</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1586100231016</updated>
+    </task>
+    <task id="LOCAL-00225" summary="0859 亲密字符串">
+      <created>1586142424683</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1586142424683</updated>
+    </task>
+    <task id="LOCAL-00226" summary="0860 柠檬水找零">
+      <created>1586143521634</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1586143521634</updated>
+    </task>
+    <task id="LOCAL-00227" summary="0867 转置矩阵">
+      <created>1586153111955</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1586153111956</updated>
+    </task>
+    <task id="LOCAL-00228" summary="0868 二进制间距">
+      <created>1586153516355</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1586153516355</updated>
+    </task>
+    <task id="LOCAL-00229" summary="0872 叶子相似的树">
+      <created>1586154572282</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1586154572282</updated>
+    </task>
+    <task id="LOCAL-00230" summary="0874 模拟行走机器人">
+      <created>1586158744956</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1586158744956</updated>
+    </task>
+    <task id="LOCAL-00231" summary="0876 链表的中间结点">
+      <created>1586159694331</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1586159694331</updated>
+    </task>
+    <task id="LOCAL-00232" summary="0883 三维型体投影面积">
+      <created>1586179879066</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1586179879066</updated>
+    </task>
+    <task id="LOCAL-00233" summary="0884 两句话中的不常见单词">
+      <created>1586181303081</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1586181303081</updated>
+    </task>
+    <task id="LOCAL-00234" summary="0888 公平的糖果交换">
+      <created>1586183084573</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1586183084573</updated>
+    </task>
+    <task id="LOCAL-00235" summary="0892 三维型体的表面积">
+      <created>1586234105387</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1586234105388</updated>
+    </task>
+    <task id="LOCAL-00236" summary="0893 特殊等价字符串组">
+      <created>1586260417355</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1586260417356</updated>
+    </task>
+    <task id="LOCAL-00237" summary="0896 单调数列">
+      <created>1586260811248</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1586260811248</updated>
+    </task>
+    <task id="LOCAL-00238" summary="0897 递增顺序查找树">
+      <created>1586261426138</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1586261426138</updated>
+    </task>
+    <task id="LOCAL-00239" summary="0905 按奇偶排序数组">
+      <created>1586267790386</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1586267790386</updated>
+    </task>
+    <task id="LOCAL-00240" summary="0908 最小差值I">
+      <created>1586268393941</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1586268393941</updated>
+    </task>
+    <task id="LOCAL-00241" summary="0914 卡牌分组">
+      <created>1586271379219</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1586271379219</updated>
+    </task>
+    <task id="LOCAL-00242" summary="0917 仅仅反转字母">
+      <created>1586314617261</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1586314617261</updated>
+    </task>
+    <option name="localTasksCounter" value="243" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -672,32 +689,32 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0705 设计哈希集合" />
-    <MESSAGE value="0706 设计哈希映射" />
-    <MESSAGE value="0709 转换成小写字母" />
-    <MESSAGE value="0717 1比特和2比特字符" />
-    <MESSAGE value="0720 词典中的最长单词" />
-    <MESSAGE value="0724 寻找数组中的中心索引" />
-    <MESSAGE value="0728 自除数" />
-    <MESSAGE value="0733 图像渲染" />
-    <MESSAGE value="0744 寻找比目标字母大的最小字母" />
-    <MESSAGE value="0746 使用最小花费爬楼梯" />
-    <MESSAGE value="0747 至少是其他数字两倍大的最大数" />
-    <MESSAGE value="0748 最短完整词" />
-    <MESSAGE value="0762 二进制表示中质数个计算置位" />
-    <MESSAGE value="0766 托普利兹矩阵" />
-    <MESSAGE value="0771 宝石与石头" />
-    <MESSAGE value="0783 二叉搜索树结点最小距离" />
-    <MESSAGE value="0784 字母大小写全排列" />
-    <MESSAGE value="0788 旋转数字" />
-    <MESSAGE value="0796 旋转字符串" />
-    <MESSAGE value="0804 唯一摩尔斯密码" />
-    <MESSAGE value="0806 写出字符串需要的行数" />
-    <MESSAGE value="0811 子域名访问次数" />
-    <MESSAGE value="0812 最大三角形面积" />
-    <MESSAGE value="0819 最常见单词" />
-    <MESSAGE value="0821 字符的最短距离" />
-    <option name="LAST_COMMIT_MESSAGE" value="0821 字符的最短距离" />
+    <MESSAGE value="0830 较大分组的位置" />
+    <MESSAGE value="0832 翻转图像" />
+    <MESSAGE value="0836 矩形重叠" />
+    <MESSAGE value="0840 矩阵中的幻方" />
+    <MESSAGE value="0844 比较含退格的字符串" />
+    <MESSAGE value="0849 到最近人的最大距离" />
+    <MESSAGE value="0852 山脉数组的巅峰索引" />
+    <MESSAGE value="0859 亲密字符串" />
+    <MESSAGE value="0860 柠檬水找零" />
+    <MESSAGE value="0867 转置矩阵" />
+    <MESSAGE value="0868 二进制间距" />
+    <MESSAGE value="0872 叶子相似的树" />
+    <MESSAGE value="0874 模拟行走机器人" />
+    <MESSAGE value="0876 链表的中间结点" />
+    <MESSAGE value="0883 三维型体投影面积" />
+    <MESSAGE value="0884 两句话中的不常见单词" />
+    <MESSAGE value="0888 公平的糖果交换" />
+    <MESSAGE value="0892 三维型体的表面积" />
+    <MESSAGE value="0893 特殊等价字符串组" />
+    <MESSAGE value="0896 单调数列" />
+    <MESSAGE value="0897 递增顺序查找树" />
+    <MESSAGE value="0905 按奇偶排序数组" />
+    <MESSAGE value="0908 最小差值I" />
+    <MESSAGE value="0914 卡牌分组" />
+    <MESSAGE value="0917 仅仅反转字母" />
+    <option name="LAST_COMMIT_MESSAGE" value="0917 仅仅反转字母" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -881,6 +898,36 @@
           <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy819/Solution.java</url>
           <line>33</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy840/Solution.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy840/Solution.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy849/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy884/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy888/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore900/easy888/Solution.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
