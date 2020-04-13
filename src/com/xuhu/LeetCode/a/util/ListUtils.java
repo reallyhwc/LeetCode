@@ -53,4 +53,11 @@ public class ListUtils {
             printChars(chars);
         }
     }
+
+    public static <T> void printLnLists(List<List<T>> lists){
+        for(List list : lists){
+            pringlnList(list);
+            System.out.print("---------------------\n");
+        }
+    }
 }
