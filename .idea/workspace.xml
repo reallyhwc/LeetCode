@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0006/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0006/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0006/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0006/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0006/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -329,21 +325,7 @@
       <workItem from="1586442053958" duration="1290000" />
       <workItem from="1586481622254" duration="15315000" />
       <workItem from="1586521800600" duration="5175000" />
-      <workItem from="1586738985119" duration="6894000" />
-    </task>
-    <task id="LOCAL-00217" summary="0824 山羊拉丁文">
-      <created>1585231828509</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1585231828510</updated>
-    </task>
-    <task id="LOCAL-00218" summary="0830 较大分组的位置">
-      <created>1585749324765</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1585749324765</updated>
+      <workItem from="1586738985119" duration="7778000" />
     </task>
     <task id="LOCAL-00219" summary="0832 翻转图像">
       <created>1585749862727</created>
@@ -674,7 +656,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586746844211</updated>
     </task>
-    <option name="localTasksCounter" value="266" />
+    <task id="LOCAL-00266" summary="0006 Z字形变换">
+      <created>1586759425591</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1586759425591</updated>
+    </task>
+    <task id="LOCAL-00267" summary="新增打印字符串组">
+      <created>1586759446533</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1586759446533</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -696,8 +692,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0914 卡牌分组" />
-    <MESSAGE value="0917 仅仅反转字母" />
     <MESSAGE value="0925 长按键入" />
     <MESSAGE value="0929 独特的电子邮件地址" />
     <MESSAGE value="0933 最近的请求次数" />
@@ -721,7 +715,9 @@
     <MESSAGE value="0002 两数相加" />
     <MESSAGE value="0003 无重复字符的最长子串" />
     <MESSAGE value="0005 最长回文子串" />
-    <option name="LAST_COMMIT_MESSAGE" value="0005 最长回文子串" />
+    <MESSAGE value="0006 Z字形变换" />
+    <MESSAGE value="新增打印字符串组" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增打印字符串组" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
