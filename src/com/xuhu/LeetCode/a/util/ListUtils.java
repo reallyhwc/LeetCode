@@ -40,4 +40,17 @@ public class ListUtils {
             System.out.println(b);
         }
     }
+
+    public static void  printChars(char[] chars){
+        for(char c : chars){
+            System.out.print(c + '\t');
+        }
+        System.out.println();
+    }
+
+    public static void printCharsChars(char[][] charsChars){
+        for(char[] chars : charsChars){
+            printChars(chars);
+        }
+    }
 }
