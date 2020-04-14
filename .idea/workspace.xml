@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="新增工具类-打印双层List">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0016/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0016/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0016/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0016/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0016/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -330,14 +327,7 @@
       <workItem from="1586521800600" duration="5175000" />
       <workItem from="1586738985119" duration="19817000" />
       <workItem from="1586784281095" duration="3502000" />
-      <workItem from="1586826263699" duration="240000" />
-    </task>
-    <task id="LOCAL-00225" summary="0859 亲密字符串">
-      <created>1586142424683</created>
-      <option name="number" value="00225" />
-      <option name="presentableId" value="LOCAL-00225" />
-      <option name="project" value="LOCAL" />
-      <updated>1586142424683</updated>
+      <workItem from="1586826263699" duration="593000" />
     </task>
     <task id="LOCAL-00226" summary="0860 柠檬水找零">
       <created>1586143521634</created>
@@ -675,7 +665,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586769744467</updated>
     </task>
-    <option name="localTasksCounter" value="274" />
+    <task id="LOCAL-00274" summary="0016 最接近的三数之和">
+      <created>1586826511959</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1586826511960</updated>
+    </task>
+    <option name="localTasksCounter" value="275" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -697,7 +694,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0944 删列造序" />
     <MESSAGE value="0949 给定数字能组成的最大时间" />
     <MESSAGE value="0953 验证外星语词典" />
     <MESSAGE value="0961 重复N次的元素" />
@@ -722,7 +718,8 @@
     <MESSAGE value="0012 整数转罗马数字" />
     <MESSAGE value="0015 三数之和" />
     <MESSAGE value="新增工具类-打印双层List" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增工具类-打印双层List" />
+    <MESSAGE value="0016 最接近的三数之和" />
+    <option name="LAST_COMMIT_MESSAGE" value="0016 最接近的三数之和" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
