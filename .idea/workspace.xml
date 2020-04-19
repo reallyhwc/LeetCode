@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0039/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0039/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0039/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0040/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0040/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0040/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0039" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0040" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -47,11 +47,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0040" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0039" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0036" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0034" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0033" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0031" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xuhu.LeetCode.a.util" />
@@ -73,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0033.Main" />
       <module name="LeetCode" />
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0031.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0040.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore100.mid0031.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore100.mid0040.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -341,14 +341,7 @@
       <workItem from="1587084173734" duration="1324000" />
       <workItem from="1587104664429" duration="734000" />
       <workItem from="1587105425131" duration="4023000" />
-      <workItem from="1587199873675" duration="7691000" />
-    </task>
-    <task id="LOCAL-00237" summary="0896 单调数列">
-      <created>1586260811248</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1586260811248</updated>
+      <workItem from="1587199873675" duration="10937000" />
     </task>
     <task id="LOCAL-00238" summary="0897 递增顺序查找树">
       <created>1586261426138</created>
@@ -686,7 +679,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587213069911</updated>
     </task>
-    <option name="localTasksCounter" value="286" />
+    <task id="LOCAL-00286" summary="0039 组合总和">
+      <created>1587264910844</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1587264910844</updated>
+    </task>
+    <option name="localTasksCounter" value="287" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -708,7 +708,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0997 找到小镇的法官" />
     <MESSAGE value="0999 可被一步捕获的棋子数" />
     <MESSAGE value="0002 两数相加" />
     <MESSAGE value="0003 无重复字符的最长子串" />
@@ -733,7 +732,8 @@
     <MESSAGE value="0033 搜索旋转排序数组" />
     <MESSAGE value="[34]在排序数组中查找元素的第一个和最后一个位置" />
     <MESSAGE value="0036 有效的数独" />
-    <option name="LAST_COMMIT_MESSAGE" value="0036 有效的数独" />
+    <MESSAGE value="0039 组合总和" />
+    <option name="LAST_COMMIT_MESSAGE" value="0039 组合总和" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1002,6 +1002,16 @@
           <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0031/Solution.java</url>
           <line>56</line>
           <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0040/Solution.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0040/Solution.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="97" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
