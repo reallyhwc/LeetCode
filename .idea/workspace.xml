@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0075/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0074/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0075/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0074/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0075/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0074/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0075/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0075/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0075/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,6 +126,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0075.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore100.mid0075.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0074.Main" />
       <module name="LeetCode" />
@@ -141,10 +155,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -347,14 +361,7 @@
       <workItem from="1587517154282" duration="8056000" />
       <workItem from="1587603937864" duration="7171000" />
       <workItem from="1587690579893" duration="15289000" />
-      <workItem from="1587868040073" duration="9535000" />
-    </task>
-    <task id="LOCAL-00257" summary="0985 查询后的偶数和">
-      <created>1586422396160</created>
-      <option name="number" value="00257" />
-      <option name="presentableId" value="LOCAL-00257" />
-      <option name="project" value="LOCAL" />
-      <updated>1586422396160</updated>
+      <workItem from="1587868040073" duration="12169000" />
     </task>
     <task id="LOCAL-00258" summary="0989 数组形式的整数加法">
       <created>1586424235260</created>
@@ -692,7 +699,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587886053390</updated>
     </task>
-    <option name="localTasksCounter" value="306" />
+    <task id="LOCAL-00306" summary="调整package名称">
+      <created>1587886164604</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1587886164604</updated>
+    </task>
+    <option name="localTasksCounter" value="307" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -714,7 +728,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0029 两数相除" />
     <MESSAGE value="0031 下一个排列" />
     <MESSAGE value="0033 搜索旋转排序数组" />
     <MESSAGE value="[34]在排序数组中查找元素的第一个和最后一个位置" />
@@ -739,7 +752,8 @@
     <MESSAGE value="0071 简化路径" />
     <MESSAGE value="0073 矩阵置零" />
     <MESSAGE value="0075 搜索二维矩阵" />
-    <option name="LAST_COMMIT_MESSAGE" value="0075 搜索二维矩阵" />
+    <MESSAGE value="调整package名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整package名称" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
