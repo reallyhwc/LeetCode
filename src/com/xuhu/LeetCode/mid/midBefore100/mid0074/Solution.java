@@ -1,4 +1,4 @@
-package com.xuhu.LeetCode.mid.midBefore100.mid0075;
+package com.xuhu.LeetCode.mid.midBefore100.mid0074;
 
 
 class Solution {
