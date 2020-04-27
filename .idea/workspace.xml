@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="0093 复原ip地址">
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/TreeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0094/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0094/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0094/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/cache/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/cache/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,20 +75,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (5)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0089.Main" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore100.mid0089.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0090.Main" />
       <module name="LeetCode" />
@@ -138,13 +128,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0094.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore100.mid0094.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -349,21 +352,7 @@
       <workItem from="1587690579893" duration="15289000" />
       <workItem from="1587868040073" duration="18105000" />
       <workItem from="1587907480502" duration="5208000" />
-      <workItem from="1587948305018" duration="24419000" />
-    </task>
-    <task id="LOCAL-00273" summary="新增工具类-打印双层List">
-      <created>1586769744467</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
-      <option name="project" value="LOCAL" />
-      <updated>1586769744467</updated>
-    </task>
-    <task id="LOCAL-00274" summary="0016 最接近的三数之和">
-      <created>1586826511959</created>
-      <option name="number" value="00274" />
-      <option name="presentableId" value="LOCAL-00274" />
-      <option name="project" value="LOCAL" />
-      <updated>1586826511960</updated>
+      <workItem from="1587948305018" duration="28298000" />
     </task>
     <task id="LOCAL-00275" summary="0016 最接近的三数之和  添加注释">
       <created>1586826945411</created>
@@ -694,7 +683,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587979299840</updated>
     </task>
-    <option name="localTasksCounter" value="322" />
+    <task id="LOCAL-00322" summary="随便在solution中加点儿东西">
+      <created>1587980656408</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
+      <option name="project" value="LOCAL" />
+      <updated>1587980656408</updated>
+    </task>
+    <task id="LOCAL-00323" summary="恢复solution">
+      <created>1587980782050</created>
+      <option name="number" value="00323" />
+      <option name="presentableId" value="LOCAL-00323" />
+      <option name="project" value="LOCAL" />
+      <updated>1587980782050</updated>
+    </task>
+    <option name="localTasksCounter" value="324" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -716,8 +719,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0059 螺旋矩阵II" />
-    <MESSAGE value="0060 第k个排列" />
     <MESSAGE value="0061 旋转链表" />
     <MESSAGE value="0062 不同路径" />
     <MESSAGE value="0063 不同路径II" />
@@ -741,7 +742,9 @@
     <MESSAGE value="0092 反转链表II" />
     <MESSAGE value="新增import公用类-避免一直导包" />
     <MESSAGE value="0093 复原ip地址" />
-    <option name="LAST_COMMIT_MESSAGE" value="0093 复原ip地址" />
+    <MESSAGE value="随便在solution中加点儿东西" />
+    <MESSAGE value="恢复solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="恢复solution" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
