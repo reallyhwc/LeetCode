@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0090/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0090/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0090/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0091/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0091/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0091/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +38,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0090" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0091" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -47,11 +47,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0091" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0090" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0089" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0086" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0082" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore100\mid0081" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xuhu.LeetCode.a.util" />
@@ -73,7 +73,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0089.Main" />
       <module name="LeetCode" />
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0081.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0091.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore100.mid0081.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore100.mid0091.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -350,14 +350,7 @@
       <workItem from="1587690579893" duration="15289000" />
       <workItem from="1587868040073" duration="18105000" />
       <workItem from="1587907480502" duration="5208000" />
-      <workItem from="1587948305018" duration="9921000" />
-    </task>
-    <task id="LOCAL-00268" summary="Z字形变换 添加注释">
-      <created>1586761056813</created>
-      <option name="number" value="00268" />
-      <option name="presentableId" value="LOCAL-00268" />
-      <option name="project" value="LOCAL" />
-      <updated>1586761056813</updated>
+      <workItem from="1587948305018" duration="14850000" />
     </task>
     <task id="LOCAL-00269" summary="0008 字符串转换整数 (atoi)">
       <created>1586765023969</created>
@@ -695,7 +688,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587954911278</updated>
     </task>
-    <option name="localTasksCounter" value="317" />
+    <task id="LOCAL-00317" summary="0090 子集II">
+      <created>1587961150764</created>
+      <option name="number" value="00317" />
+      <option name="presentableId" value="LOCAL-00317" />
+      <option name="project" value="LOCAL" />
+      <updated>1587961150764</updated>
+    </task>
+    <option name="localTasksCounter" value="318" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -717,7 +717,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0049 字母异位词分组" />
     <MESSAGE value="0050 Pow(x,n)" />
     <MESSAGE value="0054 螺旋矩阵" />
     <MESSAGE value="0055 跳跃游戏" />
@@ -742,7 +741,8 @@
     <MESSAGE value="0082 删除排序链表中的重复元素II" />
     <MESSAGE value="0086 分隔链表" />
     <MESSAGE value="0089 格雷编码" />
-    <option name="LAST_COMMIT_MESSAGE" value="0089 格雷编码" />
+    <MESSAGE value="0090 子集II" />
+    <option name="LAST_COMMIT_MESSAGE" value="0090 子集II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
