@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/TestMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0095/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0095/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0095/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/TreeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/TreeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -354,14 +353,7 @@
       <workItem from="1587868040073" duration="18105000" />
       <workItem from="1587907480502" duration="5208000" />
       <workItem from="1587948305018" duration="29964000" />
-      <workItem from="1588034288288" duration="1062000" />
-    </task>
-    <task id="LOCAL-00276" summary="0017 电话号码的字母组合">
-      <created>1586832222795</created>
-      <option name="number" value="00276" />
-      <option name="presentableId" value="LOCAL-00276" />
-      <option name="project" value="LOCAL" />
-      <updated>1586832222795</updated>
+      <workItem from="1588034288288" duration="1437000" />
     </task>
     <task id="LOCAL-00277" summary="0018 四数之和">
       <created>1586852123413</created>
@@ -699,7 +691,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587985762068</updated>
     </task>
-    <option name="localTasksCounter" value="325" />
+    <task id="LOCAL-00325" summary="提交 二叉树前中后遍历 工具类">
+      <created>1588035600623</created>
+      <option name="number" value="00325" />
+      <option name="presentableId" value="LOCAL-00325" />
+      <option name="project" value="LOCAL" />
+      <updated>1588035600623</updated>
+    </task>
+    <option name="localTasksCounter" value="326" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -721,7 +720,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0062 不同路径" />
     <MESSAGE value="0063 不同路径II" />
     <MESSAGE value="0064 最小路径和" />
     <MESSAGE value="0071 简化路径" />
@@ -746,7 +744,8 @@
     <MESSAGE value="随便在solution中加点儿东西" />
     <MESSAGE value="恢复solution" />
     <MESSAGE value="0094 二叉树的中序遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="0094 二叉树的中序遍历" />
+    <MESSAGE value="提交 二叉树前中后遍历 工具类" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交 二叉树前中后遍历 工具类" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

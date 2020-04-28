@@ -10,8 +10,9 @@ public class ListUtils {
 
     public static  void pringlnArrays(int[] array){
         for(int X : array){
-            System.out.println(X);
+            System.out.print(X + "\t");
         }
+        System.out.println();
     }
 
     public static  void pringlnDoubleArrays(int[][] array){
@@ -25,20 +26,23 @@ public class ListUtils {
 
     public static  void pringlnList(List list){
         for(Object X : list){
-            System.out.println(X);
+            System.out.print(X + "\t");
         }
+        System.out.println();
     }
 
     public static void printlnStrs(String[] strings){
         for(String str : strings){
-            System.out.println(str);
+            System.out.print(str + "\t");
         }
+        System.out.println();
     }
 
     public static void pringlnBoolean(boolean[] array){
         for(boolean b : array){
-            System.out.println(b);
+            System.out.print(b + "\t");
         }
+        System.out.println();
     }
 
     public static void  printChars(char[] chars){
