@@ -6,7 +6,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0095/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore100/mid0095/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListUtils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,13 +74,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestMain">
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0091.Main" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore100.mid0095.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore100.mid0091.*" />
+          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore100.mid0095.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -353,14 +352,7 @@
       <workItem from="1587868040073" duration="18105000" />
       <workItem from="1587907480502" duration="5208000" />
       <workItem from="1587948305018" duration="29964000" />
-      <workItem from="1588034288288" duration="1437000" />
-    </task>
-    <task id="LOCAL-00277" summary="0018 四数之和">
-      <created>1586852123413</created>
-      <option name="number" value="00277" />
-      <option name="presentableId" value="LOCAL-00277" />
-      <option name="project" value="LOCAL" />
-      <updated>1586852123413</updated>
+      <workItem from="1588034288288" duration="2714000" />
     </task>
     <task id="LOCAL-00278" summary="0019 删除链表的倒数第N个结点">
       <created>1586854966891</created>
@@ -698,7 +690,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588035600623</updated>
     </task>
-    <option name="localTasksCounter" value="326" />
+    <task id="LOCAL-00326" summary="调整 ListUtils">
+      <created>1588035754328</created>
+      <option name="number" value="00326" />
+      <option name="presentableId" value="LOCAL-00326" />
+      <option name="project" value="LOCAL" />
+      <updated>1588035754328</updated>
+    </task>
+    <option name="localTasksCounter" value="327" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -720,7 +719,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0063 不同路径II" />
     <MESSAGE value="0064 最小路径和" />
     <MESSAGE value="0071 简化路径" />
     <MESSAGE value="0073 矩阵置零" />
@@ -745,7 +743,8 @@
     <MESSAGE value="恢复solution" />
     <MESSAGE value="0094 二叉树的中序遍历" />
     <MESSAGE value="提交 二叉树前中后遍历 工具类" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交 二叉树前中后遍历 工具类" />
+    <MESSAGE value="调整 ListUtils" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整 ListUtils" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
