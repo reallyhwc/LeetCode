@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0114/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0114/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0114/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/Node.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0114" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -55,11 +56,11 @@
       <recent name="com.xuhu.LeetCode.easy0101" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0116" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0114" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0113" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0109" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0106" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0105" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -357,14 +358,7 @@
       <workItem from="1588121238037" duration="3265000" />
       <workItem from="1588211695056" duration="1221000" />
       <workItem from="1588660212621" duration="5372000" />
-      <workItem from="1588725748888" duration="9186000" />
-    </task>
-    <task id="LOCAL-00287" summary="0040 组合总和II">
-      <created>1587268056410</created>
-      <option name="number" value="00287" />
-      <option name="presentableId" value="LOCAL-00287" />
-      <option name="project" value="LOCAL" />
-      <updated>1587268056410</updated>
+      <workItem from="1588725748888" duration="9581000" />
     </task>
     <task id="LOCAL-00288" summary="0043 字符串相乘">
       <created>1587301796382</created>
@@ -702,7 +696,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588752452211</updated>
     </task>
-    <option name="localTasksCounter" value="336" />
+    <task id="LOCAL-00336" summary="0114 二叉树展开为链表">
+      <created>1588764296795</created>
+      <option name="number" value="00336" />
+      <option name="presentableId" value="LOCAL-00336" />
+      <option name="project" value="LOCAL" />
+      <updated>1588764296795</updated>
+    </task>
+    <option name="localTasksCounter" value="337" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -724,7 +725,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0080 删除排序树组中的重复项II" />
     <MESSAGE value="0081 搜索旋转排序树组II" />
     <MESSAGE value="0081 搜索旋转排序树组II-- 补充大神方法" />
     <MESSAGE value="0082 删除排序链表中的重复元素II" />
@@ -749,7 +749,8 @@
     <MESSAGE value="0106 从中序与后序遍历序列构造二叉树" />
     <MESSAGE value="0109 有序链表转换二叉搜索树" />
     <MESSAGE value="0113 路径总和II" />
-    <option name="LAST_COMMIT_MESSAGE" value="0113 路径总和II" />
+    <MESSAGE value="0114 二叉树展开为链表" />
+    <option name="LAST_COMMIT_MESSAGE" value="0114 二叉树展开为链表" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

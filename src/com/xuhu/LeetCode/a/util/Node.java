@@ -7,6 +7,7 @@ import java.util.List;
  * @date 2020-03-10 14:20
  */
 // Definition for a Node.
+// 多叉树
 public class Node {
     public int val;
     public List<Node> children;
