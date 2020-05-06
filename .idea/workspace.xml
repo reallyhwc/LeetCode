@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/common/Node.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/Node.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -358,14 +358,7 @@
       <workItem from="1588121238037" duration="3265000" />
       <workItem from="1588211695056" duration="1221000" />
       <workItem from="1588660212621" duration="5372000" />
-      <workItem from="1588725748888" duration="9581000" />
-    </task>
-    <task id="LOCAL-00288" summary="0043 字符串相乘">
-      <created>1587301796382</created>
-      <option name="number" value="00288" />
-      <option name="presentableId" value="LOCAL-00288" />
-      <option name="project" value="LOCAL" />
-      <updated>1587301796382</updated>
+      <workItem from="1588725748888" duration="9822000" />
     </task>
     <task id="LOCAL-00289" summary="0046 全排列">
       <created>1587304536691</created>
@@ -703,7 +696,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588764296795</updated>
     </task>
-    <option name="localTasksCounter" value="337" />
+    <task id="LOCAL-00337" summary="调整Node类注释">
+      <created>1588764645421</created>
+      <option name="number" value="00337" />
+      <option name="presentableId" value="LOCAL-00337" />
+      <option name="project" value="LOCAL" />
+      <updated>1588764645421</updated>
+    </task>
+    <option name="localTasksCounter" value="338" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -725,7 +725,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0081 搜索旋转排序树组II" />
     <MESSAGE value="0081 搜索旋转排序树组II-- 补充大神方法" />
     <MESSAGE value="0082 删除排序链表中的重复元素II" />
     <MESSAGE value="0086 分隔链表" />
@@ -750,7 +749,8 @@
     <MESSAGE value="0109 有序链表转换二叉搜索树" />
     <MESSAGE value="0113 路径总和II" />
     <MESSAGE value="0114 二叉树展开为链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="0114 二叉树展开为链表" />
+    <MESSAGE value="调整Node类注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="调整Node类注释" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
