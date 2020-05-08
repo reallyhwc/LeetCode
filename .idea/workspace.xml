@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/common/Node.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +43,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0116" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
@@ -358,14 +358,8 @@
       <workItem from="1588121238037" duration="3265000" />
       <workItem from="1588211695056" duration="1221000" />
       <workItem from="1588660212621" duration="5372000" />
-      <workItem from="1588725748888" duration="9822000" />
-    </task>
-    <task id="LOCAL-00289" summary="0046 全排列">
-      <created>1587304536691</created>
-      <option name="number" value="00289" />
-      <option name="presentableId" value="LOCAL-00289" />
-      <option name="project" value="LOCAL" />
-      <updated>1587304536691</updated>
+      <workItem from="1588725748888" duration="12064000" />
+      <workItem from="1588911824164" duration="1565000" />
     </task>
     <task id="LOCAL-00290" summary="0047 全排列II">
       <created>1587352087139</created>
@@ -703,7 +697,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588764645421</updated>
     </task>
-    <option name="localTasksCounter" value="338" />
+    <task id="LOCAL-00338" summary="提交完美二叉树">
+      <created>1588764881693</created>
+      <option name="number" value="00338" />
+      <option name="presentableId" value="LOCAL-00338" />
+      <option name="project" value="LOCAL" />
+      <updated>1588764881693</updated>
+    </task>
+    <option name="localTasksCounter" value="339" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -725,7 +726,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0081 搜索旋转排序树组II-- 补充大神方法" />
     <MESSAGE value="0082 删除排序链表中的重复元素II" />
     <MESSAGE value="0086 分隔链表" />
     <MESSAGE value="0089 格雷编码" />
@@ -750,7 +750,8 @@
     <MESSAGE value="0113 路径总和II" />
     <MESSAGE value="0114 二叉树展开为链表" />
     <MESSAGE value="调整Node类注释" />
-    <option name="LAST_COMMIT_MESSAGE" value="调整Node类注释" />
+    <MESSAGE value="提交完美二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交完美二叉树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
