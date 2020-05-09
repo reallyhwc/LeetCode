@@ -1,5 +1,6 @@
 package com.xuhu.LeetCode.a.util;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -7,6 +8,22 @@ import java.util.List;
  * @date 2019-12-16 19:53
  */
 public class ListUtils {
+
+    public static <T> List createListByArray(T[] array){
+        List<T> result = new ArrayList<>();
+        for(T one : array){
+            result.add(one);
+        }
+        return result;
+    }
+
+    public static <T> List<List<T>> createDoubleListByDoubleArray(T[][] arrays){
+        List<List<T>> result = new ArrayList<>();
+        for(T[] array : arrays){
+            result.add(createListByArray(array));
+        }
+        return result;
+    }
 
     public static  void pringlnArrays(int[] array){
         for(int X : array){
