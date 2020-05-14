@@ -64,7 +64,7 @@ public class ListUtils {
 
     public static void  printChars(char[] chars){
         for(char c : chars){
-            System.out.print(c + '\t');
+            System.out.print(c + "\t");
         }
         System.out.println();
     }
