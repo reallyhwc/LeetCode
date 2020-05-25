@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0133/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0133/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0133/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0133/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0134/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0134/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0134/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0133" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0134" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -48,19 +47,19 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\workSpace\usuallyWork\LeetCode" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0134" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0133" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0131" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0130" />
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0129" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xuhu.LeetCode.a.util" />
       <recent name="com.xuhu.LeetCode.easy0101" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0133" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0131" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0130" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0129" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0127" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore200.mid0129.Main" />
       <module name="LeetCode" />
@@ -115,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore200.mid0134.Main" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore200.mid0134.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore200.mid0127.Main" />
       <module name="LeetCode" />
@@ -128,26 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xuhu.LeetCode.mid.midBefore200.mid0120.Main" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xuhu.LeetCode.mid.midBefore200.mid0120.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -362,14 +361,9 @@
       <workItem from="1588911824164" duration="10747000" />
       <workItem from="1589167304417" duration="8248000" />
       <workItem from="1589275474447" duration="15381000" />
-      <workItem from="1589461253523" duration="980000" />
-    </task>
-    <task id="LOCAL-00299" summary="0061 旋转链表">
-      <created>1587546669856</created>
-      <option name="number" value="00299" />
-      <option name="presentableId" value="LOCAL-00299" />
-      <option name="project" value="LOCAL" />
-      <updated>1587546669856</updated>
+      <workItem from="1589461253523" duration="1151000" />
+      <workItem from="1590023478345" duration="1219000" />
+      <workItem from="1590367620769" duration="5541000" />
     </task>
     <task id="LOCAL-00300" summary="0062 不同路径">
       <created>1587627924213</created>
@@ -707,7 +701,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589441386466</updated>
     </task>
-    <option name="localTasksCounter" value="348" />
+    <task id="LOCAL-00348" summary="0133 克隆图">
+      <created>1589462371462</created>
+      <option name="number" value="00348" />
+      <option name="presentableId" value="LOCAL-00348" />
+      <option name="project" value="LOCAL" />
+      <updated>1589462371463</updated>
+    </task>
+    <option name="localTasksCounter" value="349" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -729,7 +730,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="恢复solution" />
     <MESSAGE value="0094 二叉树的中序遍历" />
     <MESSAGE value="提交 二叉树前中后遍历 工具类" />
     <MESSAGE value="调整 ListUtils" />
@@ -754,7 +754,8 @@
     <MESSAGE value="调整工具类" />
     <MESSAGE value="0130 被围绕的区域" />
     <MESSAGE value="0131 分割回文串" />
-    <option name="LAST_COMMIT_MESSAGE" value="0131 分割回文串" />
+    <MESSAGE value="0133 克隆图" />
+    <option name="LAST_COMMIT_MESSAGE" value="0133 克隆图" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
