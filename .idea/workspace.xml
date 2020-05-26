@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0137/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0137/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0137/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0138/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0138/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0138/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0138/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,11 +40,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0137" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0138" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
@@ -55,11 +57,11 @@
       <recent name="com.xuhu.LeetCode.easy0101" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0138" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0137" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0134" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0133" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0131" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0130" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -363,14 +365,9 @@
       <workItem from="1589275474447" duration="15381000" />
       <workItem from="1589461253523" duration="1151000" />
       <workItem from="1590023478345" duration="1219000" />
-      <workItem from="1590367620769" duration="7247000" />
-    </task>
-    <task id="LOCAL-00301" summary="0063 不同路径II">
-      <created>1587694764394</created>
-      <option name="number" value="00301" />
-      <option name="presentableId" value="LOCAL-00301" />
-      <option name="project" value="LOCAL" />
-      <updated>1587694764395</updated>
+      <workItem from="1590367620769" duration="8796000" />
+      <workItem from="1590467759986" duration="1281000" />
+      <workItem from="1590479911844" duration="2091000" />
     </task>
     <task id="LOCAL-00302" summary="0064 最小路径和">
       <created>1587695994307</created>
@@ -708,7 +705,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590404781666</updated>
     </task>
-    <option name="localTasksCounter" value="350" />
+    <task id="LOCAL-00350" summary="0137 只出现一次的数字II">
+      <created>1590408205673</created>
+      <option name="number" value="00350" />
+      <option name="presentableId" value="LOCAL-00350" />
+      <option name="project" value="LOCAL" />
+      <updated>1590408205673</updated>
+    </task>
+    <option name="localTasksCounter" value="351" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -730,7 +734,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="提交 二叉树前中后遍历 工具类" />
     <MESSAGE value="调整 ListUtils" />
     <MESSAGE value="0095 不同的二叉搜索树II" />
     <MESSAGE value="0096 不同的二叉搜索树" />
@@ -755,7 +758,8 @@
     <MESSAGE value="0131 分割回文串" />
     <MESSAGE value="0133 克隆图" />
     <MESSAGE value="0134 加油站" />
-    <option name="LAST_COMMIT_MESSAGE" value="0134 加油站" />
+    <MESSAGE value="0137 只出现一次的数字II" />
+    <option name="LAST_COMMIT_MESSAGE" value="0137 只出现一次的数字II" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
