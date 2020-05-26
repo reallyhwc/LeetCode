@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0139/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0139/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0139/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0142/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0142/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0142/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +39,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0139" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0142" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -49,11 +49,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0142" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0139" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0138" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0137" />
       <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0134" />
-      <recent name="C:\workSpace\usuallyWork\LeetCode\src\com\xuhu\LeetCode\mid\midBefore200\mid0133" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xuhu.LeetCode.a.util" />
@@ -366,14 +366,7 @@
       <workItem from="1590023478345" duration="1219000" />
       <workItem from="1590367620769" duration="8796000" />
       <workItem from="1590467759986" duration="1281000" />
-      <workItem from="1590479911844" duration="6580000" />
-    </task>
-    <task id="LOCAL-00303" summary="0071 简化路径">
-      <created>1587716638855</created>
-      <option name="number" value="00303" />
-      <option name="presentableId" value="LOCAL-00303" />
-      <option name="project" value="LOCAL" />
-      <updated>1587716638855</updated>
+      <workItem from="1590479911844" duration="10379000" />
     </task>
     <task id="LOCAL-00304" summary="0073 矩阵置零">
       <created>1587881911954</created>
@@ -711,7 +704,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590482193239</updated>
     </task>
-    <option name="localTasksCounter" value="352" />
+    <task id="LOCAL-00352" summary="0139 单词拆分">
+      <created>1590486850314</created>
+      <option name="number" value="00352" />
+      <option name="presentableId" value="LOCAL-00352" />
+      <option name="project" value="LOCAL" />
+      <updated>1590486850314</updated>
+    </task>
+    <option name="localTasksCounter" value="353" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -733,7 +733,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0095 不同的二叉搜索树II" />
     <MESSAGE value="0096 不同的二叉搜索树" />
     <MESSAGE value="0098 验证二叉搜索树" />
     <MESSAGE value="00102 二叉树的层序遍历" />
@@ -758,7 +757,8 @@
     <MESSAGE value="0134 加油站" />
     <MESSAGE value="0137 只出现一次的数字II" />
     <MESSAGE value="0138 复制带随机指针的链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="0138 复制带随机指针的链表" />
+    <MESSAGE value="0139 单词拆分" />
+    <option name="LAST_COMMIT_MESSAGE" value="0139 单词拆分" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
