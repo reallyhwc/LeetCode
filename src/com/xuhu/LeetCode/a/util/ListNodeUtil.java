@@ -1,5 +1,7 @@
 package com.xuhu.LeetCode.a.util;
 
+import java.util.List;
+
 /**
  * @author xuhu
  * @date 2019-10-31 22:52
@@ -30,5 +32,17 @@ public class ListNodeUtil {
             temp = temp.next;
         }
         return result;
+    }
+
+    public static ListNode revertListNode(ListNode node){
+        ListNode ans = null;
+        ListNode tempNode = node;
+        while (tempNode != null){
+            node = tempNode;
+            tempNode = tempNode.next;
+            node.next = ans;
+            ans = node;
+        }
+        return ans;
     }
 }
