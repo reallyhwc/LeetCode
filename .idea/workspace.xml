@@ -5,8 +5,6 @@
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0143/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0143/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0143/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListNodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/a/util/ListNodeUtil.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -367,14 +365,7 @@
       <workItem from="1590023478345" duration="1219000" />
       <workItem from="1590367620769" duration="8796000" />
       <workItem from="1590467759986" duration="1281000" />
-      <workItem from="1590479911844" duration="14113000" />
-    </task>
-    <task id="LOCAL-00305" summary="0075 搜索二维矩阵">
-      <created>1587886053390</created>
-      <option name="number" value="00305" />
-      <option name="presentableId" value="LOCAL-00305" />
-      <option name="project" value="LOCAL" />
-      <updated>1587886053390</updated>
+      <workItem from="1590479911844" duration="14378000" />
     </task>
     <task id="LOCAL-00306" summary="调整package名称">
       <created>1587886164604</created>
@@ -712,7 +703,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590492751244</updated>
     </task>
-    <option name="localTasksCounter" value="354" />
+    <task id="LOCAL-00354" summary="新增ListNode">
+      <created>1590577704621</created>
+      <option name="number" value="00354" />
+      <option name="presentableId" value="LOCAL-00354" />
+      <option name="project" value="LOCAL" />
+      <updated>1590577704621</updated>
+    </task>
+    <option name="localTasksCounter" value="355" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -734,7 +732,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0098 验证二叉搜索树" />
     <MESSAGE value="00102 二叉树的层序遍历" />
     <MESSAGE value="0103 二叉树的锯齿形层次遍历" />
     <MESSAGE value="0105从前序与中序遍历序列构造二叉树" />
@@ -759,7 +756,8 @@
     <MESSAGE value="0138 复制带随机指针的链表" />
     <MESSAGE value="0139 单词拆分" />
     <MESSAGE value="0142 环形链表II" />
-    <option name="LAST_COMMIT_MESSAGE" value="0142 环形链表II" />
+    <MESSAGE value="新增ListNode" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增ListNode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
