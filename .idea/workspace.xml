@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0152/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0152/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0152/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0206/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy/easyBefore300/easy0206/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,14 +373,7 @@
       <workItem from="1592268544841" duration="921000" />
       <workItem from="1592354369684" duration="636000" />
       <workItem from="1592441668804" duration="2004000" />
-      <workItem from="1592786445965" duration="2623000" />
-    </task>
-    <task id="LOCAL-00312" summary="0081 搜索旋转排序树组II">
-      <created>1587910883459</created>
-      <option name="number" value="00312" />
-      <option name="presentableId" value="LOCAL-00312" />
-      <option name="project" value="LOCAL" />
-      <updated>1587910883459</updated>
+      <workItem from="1592786445965" duration="2768000" />
     </task>
     <task id="LOCAL-00313" summary="0081 搜索旋转排序树组II-- 补充大神方法">
       <created>1587911025612</created>
@@ -724,7 +711,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590743858148</updated>
     </task>
-    <option name="localTasksCounter" value="361" />
+    <task id="LOCAL-00361" summary="0152 乘积最大子数组">
+      <created>1592811167947</created>
+      <option name="number" value="00361" />
+      <option name="presentableId" value="LOCAL-00361" />
+      <option name="project" value="LOCAL" />
+      <updated>1592811167947</updated>
+    </task>
+    <option name="localTasksCounter" value="362" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -746,7 +740,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0114 二叉树展开为链表" />
     <MESSAGE value="调整Node类注释" />
     <MESSAGE value="提交完美二叉树" />
     <MESSAGE value="0116 填充每个节点的下一个右侧结点指针" />
@@ -771,7 +764,8 @@
     <MESSAGE value="0147 对链表进行插入排序" />
     <MESSAGE value="0148 排序链表" />
     <MESSAGE value="0150 逆波兰表达式求值" />
-    <option name="LAST_COMMIT_MESSAGE" value="0150 逆波兰表达式求值" />
+    <MESSAGE value="0152 乘积最大子数组" />
+    <option name="LAST_COMMIT_MESSAGE" value="0152 乘积最大子数组" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
