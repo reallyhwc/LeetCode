@@ -2,16 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0166/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0166/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0166/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0166/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0166/Solution.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -379,14 +391,8 @@
       <workItem from="1592354369684" duration="636000" />
       <workItem from="1592441668804" duration="2004000" />
       <workItem from="1592786445965" duration="11836000" />
-      <workItem from="1592833346233" duration="1897000" />
-    </task>
-    <task id="LOCAL-00317" summary="0090 子集II">
-      <created>1587961150764</created>
-      <option name="number" value="00317" />
-      <option name="presentableId" value="LOCAL-00317" />
-      <option name="project" value="LOCAL" />
-      <updated>1587961150764</updated>
+      <workItem from="1592833346233" duration="2503000" />
+      <workItem from="1592873730469" duration="2701000" />
     </task>
     <task id="LOCAL-00318" summary="0091 解码方法">
       <created>1587969575232</created>
@@ -724,7 +730,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592825395938</updated>
     </task>
-    <option name="localTasksCounter" value="366" />
+    <task id="LOCAL-00366" summary="0166 分数到小数">
+      <created>1592837011005</created>
+      <option name="number" value="00366" />
+      <option name="presentableId" value="LOCAL-00366" />
+      <option name="project" value="LOCAL" />
+      <updated>1592837011008</updated>
+    </task>
+    <option name="localTasksCounter" value="367" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -746,7 +759,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="新增util - 根据array 创建 List" />
     <MESSAGE value="0120 三角形的最小路径和" />
     <MESSAGE value="0127 单词接龙" />
     <MESSAGE value="0129 求根节点到叶子结点的数字之和" />
@@ -771,7 +783,8 @@
     <MESSAGE value="0153 寻找旋转排序数组中的最小值" />
     <MESSAGE value="0162 寻找峰值" />
     <MESSAGE value="0165 比较版本号" />
-    <option name="LAST_COMMIT_MESSAGE" value="0165 比较版本号" />
+    <MESSAGE value="0166 分数到小数" />
+    <option name="LAST_COMMIT_MESSAGE" value="0166 分数到小数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1155,11 +1168,6 @@
           <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0165/Solution.java</url>
           <line>5</line>
           <option name="timeStamp" value="131" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/xuhu/LeetCode/mid/midBefore200/mid0166/Solution.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="133" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
