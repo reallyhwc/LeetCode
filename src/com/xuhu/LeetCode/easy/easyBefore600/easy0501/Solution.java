@@ -1,7 +1,6 @@
 package com.xuhu.LeetCode.easy.easyBefore600.easy0501;
 
 
-import com.sun.source.tree.Tree;
 import com.xuhu.LeetCode.a.util.TreeNode;
 
 import java.util.LinkedList;
