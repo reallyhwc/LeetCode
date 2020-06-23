@@ -10,11 +10,11 @@ target/
 .project
 .classpath
 
-## idea ignore
-#./idea/
-#*.ipr
-#*.iml
-#*.iws
+# idea ignore
+./idea/
+*.ipr
+*.iml
+*.iws
 
 # temp ignore
 logs/
