@@ -4,6 +4,10 @@ package com.xuhu.LeetCode.mid.midBefore300.mid0211;
 
 class WordDictionary {
 
+    /**
+     * 整体上设计思路参考T208 字典树的数据结构设计  一层仅存储一个字母 使用  .  的时候就使用for循环层序search（回溯）
+     */
+
     private WordDictionary[] next = new WordDictionary[26];
     private boolean is_end = false;
 
