@@ -7,5 +7,6 @@ public class Main {
         int[] array1 = {2,7,9,3,1};
         System.out.println(solution.rob1(array));
         System.out.println(solution.rob1(array1));
+        System.out.println(solution.rob1(new int[]{3,1,3,100}));
     }
 }
