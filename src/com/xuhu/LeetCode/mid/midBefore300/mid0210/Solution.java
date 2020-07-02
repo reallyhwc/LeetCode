@@ -15,6 +15,8 @@ import java.util.*;
  */
 class Solution {
 
+    private static int index;
+
     /**
      * DFS 深度优先遍历
      *
@@ -39,17 +41,18 @@ class Solution {
 
         // 标记数组
         int[] flag = new int[numCourses];
-        List<Integer> ans = new ArrayList<>();
+        int[] ansArray = new int[numCourses];
+        index = numCourses-1;
+
         for (int i = 0; i < numCourses; i++){
-            if(!DFS(i,lists,flag,ans)){
+            if(!DFS(i,lists,flag,ansArray)){
                 return new int[0];
             }
         }
-        Collections.reverse(ans);
-        return ans.stream().mapToInt(Integer::intValue).toArray();
+        return ansArray;
     }
 
-    private boolean DFS(int nowCourse, List<List<Integer>> lists, int[] flag, List<Integer> ans){
+    private boolean DFS(int nowCourse, List<List<Integer>> lists, int[] flag, int[] ans){
         if(flag[nowCourse] == 1){
             // 本次dfs启动的搜索第二次访问到 故返回false（相当于产生了环）
             return false;
@@ -65,7 +68,7 @@ class Solution {
             }
         }
         flag[nowCourse] = -1;
-        ans.add(nowCourse);
+        ans[index--] = nowCourse;
         return true;
     }
 
