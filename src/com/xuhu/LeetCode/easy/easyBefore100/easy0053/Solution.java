@@ -10,11 +10,8 @@ class Solution {
         int theSum = nums[0];
         for(int i = 1; i < nums.length; i++){
             theSum = Math.max(theSum + nums[i],nums[i]);
-            if(theSum > maxSum){
-                maxSum = theSum;
-            }
+            maxSum = Math.max(maxSum,theSum);
         }
-
         return maxSum;
     }
 }
