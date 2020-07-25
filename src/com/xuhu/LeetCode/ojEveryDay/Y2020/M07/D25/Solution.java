@@ -30,7 +30,7 @@ class Solution {
                 }
             }
             if (count > m){
-                // 说明分出来的比想象中的要多
+                // 说明分出来 组数 的比想象中的要多 那么说明，我们取的mid的值还不够大 提升left 的值
                 left = mid + 1;
             }else {
                 right = mid;
