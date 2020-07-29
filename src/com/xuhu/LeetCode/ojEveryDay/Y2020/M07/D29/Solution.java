@@ -2,10 +2,19 @@ package com.xuhu.LeetCode.ojEveryDay.Y2020.M07.D29;
 
 
 import java.util.*;
+
+/**
+ * 很抱歉 这个是真的不会
+ *
+ * TODO  总有一天 搞会这个玩意儿
+ *
+ */
 class Solution {
+
     int[] dx = {1, -1, 0, 0};
     int[] dy = {0, 0, 1, -1};
-    int n, m;
+    int n;
+    int m;
 
     public int minimalSteps(String[] maze) {
         n = maze.length;
@@ -13,8 +22,14 @@ class Solution {
         // 机关 & 石头
         List<int[]> buttons = new ArrayList<int[]>();
         List<int[]> stones = new ArrayList<int[]>();
+
         // 起点 & 终点
-        int sx = -1, sy = -1, tx = -1, ty = -1;
+        int sx = -1;
+        int sy = -1;
+        int tx = -1;
+        int ty = -1;
+
+        // 添加石头，机关 起点 终点的位置
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (maze[i].charAt(j) == 'M') {
@@ -33,19 +48,23 @@ class Solution {
                 }
             }
         }
+
         int nb = buttons.size();
         int ns = stones.size();
+
         int[][] startDist = bfs(sx, sy, maze);
 
-        // 边界情况：没有机关
+        // 边界情况 没有机关
         if (nb == 0) {
             return startDist[tx][ty];
         }
-        // 从某个机关到其他机关 / 起点与终点的最短距离。
+
+        // 从某个机关到其他机关 /  起点与终点的最短距离
         int[][] dist = new int[nb][nb + 2];
         for (int i = 0; i < nb; i++) {
             Arrays.fill(dist[i], -1);
         }
+
         // 中间结果
         int[][][] dd = new int[nb][][];
         for (int i = 0; i < nb; i++) {
@@ -96,7 +115,6 @@ class Solution {
         for (int i = 0; i < nb; i++) {
             dp[1 << i][i] = dist[i][nb];
         }
-
         // 由于更新的状态都比未更新的大，所以直接从小到大遍历即可
         for (int mask = 1; mask < (1 << nb); mask++) {
             for (int i = 0; i < nb; i++) {
@@ -124,6 +142,7 @@ class Solution {
         }
 
         return ret;
+
     }
 
     public int[][] bfs(int x, int y, String[] maze) {
