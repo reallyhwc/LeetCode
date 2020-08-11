@@ -15,16 +15,17 @@ class Solution {
         if (s == null || s.length() == 0){
             return 0;
         }
-        char last = s.charAt(0);
+        char[] chars = s.toCharArray();
+        char last = chars[0];
         int pre = 0;
         int lastNum = 1;
         int ans = 0;
-        for (int i = 1; i < s.length(); i++){
-            if (last == s.charAt(i)){
+        for (int i = 1; i < chars.length; i++){
+            if (last == chars[i]){
                 lastNum++;
             }else {
                 ans += Math.min(pre,lastNum);
-                last = s.charAt(i);
+                last = chars[i];
                 pre = lastNum;
                 lastNum = 1;
             }
