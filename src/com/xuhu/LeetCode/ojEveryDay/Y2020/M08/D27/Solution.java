@@ -27,6 +27,7 @@ class Solution {
     List<String> itinerary = new LinkedList<String>();
 
     public List<String> findItinerary(List<List<String>> tickets) {
+        // 常规遍历 把doubleList 以图结点的形式存储一下
         for (List<String> ticket : tickets) {
             String src = ticket.get(0), dst = ticket.get(1);
             if (!map.containsKey(src)) {
