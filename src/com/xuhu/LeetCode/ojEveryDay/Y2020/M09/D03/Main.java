@@ -5,6 +5,6 @@ import com.xuhu.LeetCode.a.util.ListUtils;
 public class Main {
     public static void main(String[] args){
         Solution solution = new Solution();
-        ListUtils.printLnLists(solution.solveNQueens(4));
+        ListUtils.printLnLnLists(solution.solveNQueens(10));
     }
 }

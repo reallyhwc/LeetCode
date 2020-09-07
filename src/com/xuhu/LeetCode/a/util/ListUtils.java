@@ -91,7 +91,7 @@ public class ListUtils {
 
     public static <T> void printLnLnLists(List<List<T>> lists){
         for(List list : lists){
-            printList(list);
+            printLnList(list);
             System.out.print("---------------------\n");
         }
     }
