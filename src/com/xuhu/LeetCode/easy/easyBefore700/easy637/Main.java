@@ -13,6 +13,6 @@ public class Main {
         TreeOperation.show(node);
         System.out.println();
 
-        ListUtils.pringlnList(solution.averageOfLevels(node));
+        ListUtils.printList(solution.averageOfLevels(node));
     }
 }

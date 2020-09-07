@@ -8,6 +8,6 @@ public class Main {
         String[] strings = {"9001 discuss.leetcode.com"};
         String[] strings1 = {"900 google.mail.com", "50 yahoo.com", "1 intel.mail.com", "5 wiki.org"};
 //        ListUtils.pringlnList(solution.subdomainVisits(strings));
-        ListUtils.pringlnList(solution.subdomainVisits(strings1));
+        ListUtils.printList(solution.subdomainVisits(strings1));
     }
 }

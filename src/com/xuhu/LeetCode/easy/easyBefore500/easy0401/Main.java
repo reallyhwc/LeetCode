@@ -5,6 +5,6 @@ import com.xuhu.LeetCode.a.util.ListUtils;
 public class Main {
     public static void main(String[] args){
         Solution solution = new Solution();
-        ListUtils.pringlnList(solution.readBinaryWatch(1));
+        ListUtils.printList(solution.readBinaryWatch(1));
     }
 }

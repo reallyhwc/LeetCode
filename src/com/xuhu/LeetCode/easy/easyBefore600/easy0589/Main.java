@@ -24,8 +24,8 @@ public class Main {
         list1.add(node4);
         Node node1 = new Node(1,list1);
 
-        ListUtils.pringlnList(solution.preorder(node1));
+        ListUtils.printList(solution.preorder(node1));
         System.out.println();
-        ListUtils.pringlnList(solution.preorder_diedai(node1));
+        ListUtils.printList(solution.preorder_diedai(node1));
     }
 }

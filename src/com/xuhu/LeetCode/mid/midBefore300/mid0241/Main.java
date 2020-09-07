@@ -5,7 +5,7 @@ import com.xuhu.LeetCode.a.util.ListUtils;
 public class Main {
     public static void main(String[] args){
         Solution solution = new Solution();
-        ListUtils.pringlnList(solution.diffWaysToCompute("2-1-1"));
-        ListUtils.pringlnList(solution.diffWaysToCompute("2*3-4*5"));
+        ListUtils.printList(solution.diffWaysToCompute("2-1-1"));
+        ListUtils.printList(solution.diffWaysToCompute("2*3-4*5"));
     }
 }

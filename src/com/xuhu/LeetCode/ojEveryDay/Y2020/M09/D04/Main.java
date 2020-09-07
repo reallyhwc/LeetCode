@@ -10,6 +10,6 @@ public class Main {
         Solution solution = new Solution();
         TreeNode node = TreeUtils.create(new Integer[]{1,2,3,null,5},0);
         TreeOperation.show(node);
-        ListUtils.pringlnList(solution.binaryTreePaths(node));
+        ListUtils.printList(solution.binaryTreePaths(node));
     }
 }

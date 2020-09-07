@@ -6,6 +6,6 @@ import com.xuhu.LeetCode.a.util.TreeUtils;
 public class Main {
     public static void main(String[] args){
         Solution solution = new Solution();
-        ListUtils.pringlnList(solution.inorderTraversal(TreeUtils.create(new Integer[]{1,null,2,null,null,3},0)));
+        ListUtils.printList(solution.inorderTraversal(TreeUtils.create(new Integer[]{1,null,2,null,null,3},0)));
     }
 }

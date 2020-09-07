@@ -41,14 +41,21 @@ public class ListUtils {
         }
     }
 
-    public static  void pringlnList(List list){
+    public static  void printList(List list){
         for(Object X : list){
             System.out.print(X + "\t");
         }
         System.out.println();
     }
 
-    public static void printlnStrs(String[] strings){
+    public static  void printLnList(List list){
+        for(Object X : list){
+            System.out.print(X + "\n");
+        }
+        System.out.println();
+    }
+
+    public static void printStrs(String[] strings){
         for(String str : strings){
             System.out.print(str + "\t");
         }
@@ -77,7 +84,14 @@ public class ListUtils {
 
     public static <T> void printLnLists(List<List<T>> lists){
         for(List list : lists){
-            pringlnList(list);
+            printList(list);
+            System.out.print("---------------------\n");
+        }
+    }
+
+    public static <T> void printLnLnLists(List<List<T>> lists){
+        for(List list : lists){
+            printList(list);
             System.out.print("---------------------\n");
         }
     }

@@ -7,10 +7,10 @@ package com.xuhu.LeetCode.a.util;
 public class TestMain {
     public static void main(String[] args) {
         TreeNode node = TreeUtils.create(new Integer[]{1,2,3,4,5,6,7},0);
-        ListUtils.pringlnList(TreeUtils.getTreeBeforeArray(node));
+        ListUtils.printList(TreeUtils.getTreeBeforeArray(node));
         System.out.print("-----------------------------\n");
-        ListUtils.pringlnList(TreeUtils.getTreeMidArray(node));
+        ListUtils.printList(TreeUtils.getTreeMidArray(node));
         System.out.print("-----------------------------\n");
-        ListUtils.pringlnList(TreeUtils.getTreeEndArray(node));
+        ListUtils.printList(TreeUtils.getTreeEndArray(node));
     }
 }

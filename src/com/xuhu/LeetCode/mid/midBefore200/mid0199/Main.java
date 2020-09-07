@@ -6,6 +6,6 @@ import com.xuhu.LeetCode.a.util.TreeUtils;
 public class Main {
     public static void main(String[] args){
         Solution solution = new Solution();
-        ListUtils.pringlnList(solution.rightSideView(TreeUtils.create(new Integer[]{1,2,3,null,5,null,4},0)));
+        ListUtils.printList(solution.rightSideView(TreeUtils.create(new Integer[]{1,2,3,null,5,null,4},0)));
     }
 }

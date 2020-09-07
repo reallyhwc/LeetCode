@@ -8,6 +8,6 @@ public class Main {
     public static void main(String[] args){
         Solution solution = new Solution();
 //        for(List list : solution.largeGroupPositions("abbxxxxzzy")){ ListUtils.pringlnList(list); }
-        for(List list : solution.largeGroupPositions("abcdddeeeeaabbbcd")){ ListUtils.pringlnList(list); }
+        for(List list : solution.largeGroupPositions("abcdddeeeeaabbbcd")){ ListUtils.printList(list); }
     }
 }

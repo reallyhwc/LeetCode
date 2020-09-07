@@ -24,11 +24,11 @@ public class Main {
         list1.add(node4);
         Node node1 = new Node(1,list1);
 
-        ListUtils.pringlnList(solution.postorder(node1));
+        ListUtils.printList(solution.postorder(node1));
 
         System.out.println();
 
-        ListUtils.pringlnList(solution.postorder_digui(node1));
+        ListUtils.printList(solution.postorder_digui(node1));
 
 
     }

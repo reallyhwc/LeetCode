@@ -5,6 +5,6 @@ import com.xuhu.LeetCode.a.util.ListUtils;
 public class Main {
     public static void main(String[] args){
         Solution solution = new Solution();
-        ListUtils.pringlnList(solution.grayCode(2));
+        ListUtils.printList(solution.grayCode(2));
     }
 }

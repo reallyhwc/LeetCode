@@ -7,6 +7,6 @@ public class Main {
         Solution solution = new Solution();
         String[] a1 = {"Shogun", "Tapioca Express", "Burger King", "KFC"};
         String[] a2 = {"Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun"};
-        ListUtils.printlnStrs(solution.findRestaurant(a1,a2));
+        ListUtils.printStrs(solution.findRestaurant(a1,a2));
     }
 }

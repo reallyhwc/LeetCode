@@ -5,6 +5,6 @@ import com.xuhu.LeetCode.a.util.ListUtils;
 public class Main {
     public static void main(String[] args){
         Solution solution = new Solution();
-        ListUtils.pringlnList(solution.fizzBuzz(16));
+        ListUtils.printList(solution.fizzBuzz(16));
     }
 }
