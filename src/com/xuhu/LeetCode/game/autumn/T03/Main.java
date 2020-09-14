@@ -5,6 +5,7 @@ public class Main {
         Solution solution = new Solution();
         System.out.println(solution.minimumOperations("rryyyrryyyrr"));
         System.out.println(solution.minimumOperations("ryr"));
-        System.out.println(solution.minimumOperations("yyyyyyyyyyyyyyyyyyyyyyyyyyyyy"));
+        System.out.println(solution.minimumOperations("ryyryyyrryyyyyryyyrrryyyryryyyyryyrrryryyyryrryrrrryyyrrrrryryyrrrrryyyryyryrryryyryyyyryyrryrryryy"));
+//        System.out.println(solution.minimumOperations1("ryyryyyrryyyyyryyyrrryyyryryyyyryyrrryryyyryrryrrrryyyrrrrryryyrrrrryyyryyryrryryyryyyyryyrryrryryy"));
     }
 }
