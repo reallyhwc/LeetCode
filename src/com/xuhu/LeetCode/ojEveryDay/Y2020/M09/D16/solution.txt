@@ -1,0 +1,17 @@
+没记错的话是反转二叉树，太简单了没用IDE写
+稍微贴一下代码吧
+
+
+class Solution {
+    public TreeNode invertTree(TreeNode root) {
+        if(root != null){
+            invertTree(root.left);
+            invertTree(root.right);
+            TreeNode temp = root.left;
+            root.left = root.right;
+            root.right = temp;
+
+        }
+        return root;
+    }
+}
