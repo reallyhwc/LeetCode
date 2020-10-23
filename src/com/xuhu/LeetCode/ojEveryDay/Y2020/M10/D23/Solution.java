@@ -8,8 +8,7 @@ class Solution {
         if (head == null || head.next == null){
             return true;
         }
-
-        ListNode headRecord = head;
+        ListNode headTarget = head;
         ListNode reverse = null;
         while (head != null){
             ListNode temp = new ListNode(head.val);
@@ -18,19 +17,18 @@ class Solution {
             head = head.next;
         }
 
-        while (headRecord != null && reverse != null){
-            if (headRecord.val != reverse.val){
+        while (headTarget != null && reverse != null){
+            if (headTarget.val != reverse.val){
                 return false;
             }else {
-                headRecord = headRecord.next;
+                headTarget = headTarget.next;
                 reverse = reverse.next;
             }
         }
 
-        if (headRecord != null || reverse != null){
+        if (reverse != null || headTarget != null){
             return false;
         }
-
         return true;
     }
 }
