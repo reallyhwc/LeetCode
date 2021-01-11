@@ -40,6 +40,8 @@ class Solution {
             matrix[index2][index1] = 1 / val;
         }
 
+        // 使用弗洛伊德算法 对邻接矩阵进行计算
+        // 弗洛伊德算法本质上来说就是通过三层循环 实现 求 j k 结点之间的最近值（之所以还需要再加一层i循环，是每个结点都要去轮走一遍）
         int n = count + 1;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++){
