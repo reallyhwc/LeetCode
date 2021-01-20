@@ -5,69 +5,65 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 class Solution {
-
     public int minCostConnectPoints(int[][] points) {
-        PriorityQueue<Edge> queue = new PriorityQueue<>(Comparator.comparingInt(e -> e.dis));
-        int n = points.length;
-        UnionFind unionFind = new UnionFind(n);
+        PriorityQueue<Edge> queue = new PriorityQueue<>(Comparator.comparingInt(e -> e.len));
+        int len = points.length;
 
-        int count = 1;
-        for (int i = 0; i < n; i ++){
-            for (int j = i + 1; j < n; j ++){
-                Edge e = new Edge(points, i, j);
-                queue.add(e);
+        UnionFind unionFind = new UnionFind(len);
+        for (int i = 0; i < len; i++) {
+            for (int j = i+1; j < len; j++) {
+                Edge edge = new Edge(points,i,j);
+                queue.add(edge);
             }
         }
-        int res = 0;
+        int ans = 0;
+        // 第一次会加入两个节点 所以这边默认size为1
+        int size = 1;
         while (!queue.isEmpty()){
-            Edge e = queue.poll();
-            int x = e.x;
-            int y = e.y;
-            if (!unionFind.isUnion(x, y)){
-                unionFind.union(x,y);
-                res += e.dis;
-                count ++;
+            Edge edge = queue.poll();
+            if (unionFind.find(edge.x) != unionFind.find(edge.y)){
+                unionFind.union(edge.x, edge.y);
+                ans += edge.len;
+                size++;
             }
-            if (count == n){
+            if (size == len){
                 break;
             }
         }
-        return res;
+        return ans;
     }
 }
+
 class Edge{
     int x;
     int y;
-    int dis;
+    int len;
     Edge(int[][] points, int i, int j){
         x = i;
         y = j;
-        dis = Math.abs(points[i][0] - points[j][0]) + Math.abs(points[i][1] - points[j][1]);
+        len = Math.abs(points[i][0] - points[j][0]) + Math.abs(points[i][1] - points[j][1]);
     }
 }
 
 class UnionFind{
-    private int[] parent;
 
-    UnionFind(int n) {
+    int[] parent;
+
+    public UnionFind(int n) {
         this.parent = new int[n];
         for (int i = 0; i < n; i++) {
             parent[i] = i;
         }
     }
 
-    private int getParent(int i){
-        if (i != parent[i]){
-            parent[i] = getParent(parent[i]);
-        }
-        return parent[i];
-    }
-
-    boolean isUnion(int i, int j){
-        return getParent(i) == getParent(j);
-    }
-
     void union(int i, int j){
-        parent[getParent(j)] = getParent(i);
+        parent[find(j)] = find(i);
+    }
+
+    int find(int num){
+        if (parent[num] != num){
+            parent[num] = find(parent[num]);
+        }
+        return parent[num];
     }
 }
