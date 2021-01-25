@@ -3,6 +3,8 @@ package com.xuhu.LeetCode.ojEveryDay.Y2021.M01.D25;
 
 class Solution {
     public int regionsBySlashes(String[] grid) {
+        // 整体思路 一个格子要么正斜杠要么反斜杠要么没有斜杠，等效可以将一个格子分成四块来考虑
+        // 通过这四块格子之间的关系，构建并查集即可
         int len = grid.length;
         int size = len * len * 4;
         UnionFind unionFind = new UnionFind(size);
