@@ -31,7 +31,7 @@ class Solution {
         // aL = a 的L次方
         int aL = (int)Math.pow(a,L);
 
-        Map<Character,Integer> toInt = new HashMap<>(){{put('A',0);put('C',1);put('G',2);put('T',3);}};
+        Map<Character,Integer> toInt = new HashMap<Character, Integer>(){{put('A',0);put('C',1);put('G',2);put('T',3);}};
         int[] nums = new int[length];
         for (int i = 0; i < length; i++){
             nums[i] = toInt.get(s.charAt(i));
