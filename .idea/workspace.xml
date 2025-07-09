@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="feat(easy013): 新增罗马数字转整数功能及示例代码实现">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy014/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy014/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy014/readme.md" afterDir="false" />
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，并提供了相应的示例代码和配置更新。同时更新了统计信息和工作区设置。">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy020/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy020/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy020/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
     "extract.method.default.visibility": "private",
     "git-widget-placeholder": "release/xuhu/test",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/easy02/easyBefore100/easy014",
+    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/easy02/easyBefore100/easy020",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,11 +74,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy020" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy014" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy013" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy002" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy001" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\workSpace\usuallyWork\LeetCode" />
@@ -411,7 +410,7 @@
       <workItem from="1751272656665" duration="2450000" />
       <workItem from="1751447023025" duration="5804000" />
       <workItem from="1751957546799" duration="1840000" />
-      <workItem from="1752041767218" duration="485000" />
+      <workItem from="1752041767218" duration="4007000" />
     </task>
     <task id="LOCAL-00312" summary="0081 搜索旋转排序树组II">
       <created>1587910883459</created>
@@ -756,7 +755,7 @@
       <option name="project" value="LOCAL" />
       <updated>1590743858148</updated>
     </task>
-    <option name="localTasksCounter" value="364" />
+    <option name="localTasksCounter" value="365" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -777,19 +776,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0117 填充每个节点的下一个右侧结点指针II" />
-    <MESSAGE value="新增util - 根据array 创建 List" />
-    <MESSAGE value="0120 三角形的最小路径和" />
-    <MESSAGE value="0127 单词接龙" />
-    <MESSAGE value="0129 求根节点到叶子结点的数字之和" />
-    <MESSAGE value="调整工具类" />
-    <MESSAGE value="0130 被围绕的区域" />
-    <MESSAGE value="0131 分割回文串" />
-    <MESSAGE value="0133 克隆图" />
-    <MESSAGE value="0134 加油站" />
-    <MESSAGE value="0137 只出现一次的数字II" />
-    <MESSAGE value="0138 复制带随机指针的链表" />
-    <MESSAGE value="0139 单词拆分" />
     <MESSAGE value="0142 环形链表II" />
     <MESSAGE value="新增ListNode" />
     <MESSAGE value="0143 重排链表" />
@@ -802,7 +788,20 @@
     <MESSAGE value="feat(easy009): 新增判断回文数功能及主程序入口" />
     <MESSAGE value="请求模型中..." />
     <MESSAGE value="feat(easy013): 新增罗马数字转整数功能及示例代码实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(easy013): 新增罗马数字转整数功能及示例代码实现" />
+    <MESSAGE value="Aone Copilot 请求模型中..." />
+    <MESSAGE value="f" />
+    <MESSAGE value="feat(easy0" />
+    <MESSAGE value="feat(easy014): 新" />
+    <MESSAGE value="feat(easy014): 新增最长公共前缀功能及" />
+    <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个" />
+    <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 Leet" />
+    <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决" />
+    <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最" />
+    <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，" />
+    <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，并提供了相应的示" />
+    <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，并提供了相应的示例代码和配置更新。同" />
+    <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，并提供了相应的示例代码和配置更新。同时更新了统计信息和工作区设置。" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，并提供了相应的示例代码和配置更新。同时更新了统计信息和工作区设置。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
