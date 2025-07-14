@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，并提供了相应的示例代码和配置更新。同时更新了统计信息和工作区设置。">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy020/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy020/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy020/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“有效括号验证”的功能，并提供了相应的示例代码和配置更新。同时更新了统计信息和工作区设置。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -410,7 +406,7 @@
       <workItem from="1751272656665" duration="2450000" />
       <workItem from="1751447023025" duration="5804000" />
       <workItem from="1751957546799" duration="1840000" />
-      <workItem from="1752041767218" duration="4007000" />
+      <workItem from="1752041767218" duration="4912000" />
     </task>
     <task id="LOCAL-00312" summary="0081 搜索旋转排序树组II">
       <created>1587910883459</created>
@@ -755,7 +751,7 @@
       <option name="project" value="LOCAL" />
       <updated>1590743858148</updated>
     </task>
-    <option name="localTasksCounter" value="365" />
+    <option name="localTasksCounter" value="366" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -776,19 +772,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="0142 环形链表II" />
-    <MESSAGE value="新增ListNode" />
-    <MESSAGE value="0143 重排链表" />
-    <MESSAGE value="0144 二叉树的前序遍历" />
-    <MESSAGE value="0146 LRU缓存机制" />
-    <MESSAGE value="0147 对链表进行插入排序" />
-    <MESSAGE value="0148 排序链表" />
-    <MESSAGE value="0150 逆波兰表达式求值" />
-    <MESSAGE value="feat(easy001): 新增两数之和功能实现及主程序入口" />
-    <MESSAGE value="feat(easy009): 新增判断回文数功能及主程序入口" />
-    <MESSAGE value="请求模型中..." />
     <MESSAGE value="feat(easy013): 新增罗马数字转整数功能及示例代码实现" />
-    <MESSAGE value="Aone Copilot 请求模型中..." />
     <MESSAGE value="f" />
     <MESSAGE value="feat(easy0" />
     <MESSAGE value="feat(easy014): 新" />
@@ -801,7 +785,19 @@
     <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，并提供了相应的示" />
     <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，并提供了相应的示例代码和配置更新。同" />
     <MESSAGE value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，并提供了相应的示例代码和配置更新。同时更新了统计信息和工作区设置。" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(easy014): 新增最长公共前缀功能及示例代码实现&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“最长公共前缀”问题的功能，并提供了相应的示例代码和配置更新。同时更新了统计信息和工作区设置。" />
+    <MESSAGE value="Aone Copilot 请求模型中..." />
+    <MESSAGE value="feat(e" />
+    <MESSAGE value="feat(easy020): 新增" />
+    <MESSAGE value="feat(easy020): 新增有效括号验证功能及" />
+    <MESSAGE value="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新" />
+    <MESSAGE value="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新的 LeetC" />
+    <MESSAGE value="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新的 LeetCode 题目解决" />
+    <MESSAGE value="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“有效括号验证”" />
+    <MESSAGE value="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“有效括号验证”的功能，并提供了相" />
+    <MESSAGE value="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“有效括号验证”的功能，并提供了相应的示例代码和配" />
+    <MESSAGE value="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“有效括号验证”的功能，并提供了相应的示例代码和配置更新。同时更新了" />
+    <MESSAGE value="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“有效括号验证”的功能，并提供了相应的示例代码和配置更新。同时更新了统计信息和工作区设置。" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“有效括号验证”的功能，并提供了相应的示例代码和配置更新。同时更新了统计信息和工作区设置。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
