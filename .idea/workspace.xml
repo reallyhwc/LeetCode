@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="feat(easy020): 新增有效括号验证功能及相关配置&#10;&#10;此提交添加了一个新的 LeetCode 题目解决方案，实现了“有效括号验证”的功能，并提供了相应的示例代码和配置更新。同时更新了统计信息和工作区设置。">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy021/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy021/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy021/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="release/xuhu/test" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +45,7 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="1Rv6KhlpMNOQYUtfYry2jLJuQ1R" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -58,7 +60,7 @@
     "extract.method.default.visibility": "private",
     "git-widget-placeholder": "release/xuhu/test",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/easy02/easyBefore100/easy020",
+    "last_opened_file_path": "/Users/xuhu/workspace/locallearn/LeetCode/src/com/xuhu/LeetCode/easy02/easyBefore100/easy021",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,11 +72,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy021" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy020" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy014" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy013" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy002" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\workSpace\usuallyWork\LeetCode" />
