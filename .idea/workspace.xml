@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="feat(easy028): 添加查找字符串中第一个匹配项的下标功能及配置&#10;&#10;此提交为LeetCode题目“查找字符串中第一个匹配项的下标”增加了实现代码与相关配置，并更新了统计信息和IDE设置。">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy035/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy035/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy035/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy058/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy058/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy058/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
     "extract.method.default.visibility": "private",
     "git-widget-placeholder": "release/xuhu/test",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/easy02/easyBefore100/easy035",
+    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/easy02/easyBefore100/easy058",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,11 +72,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy058" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy035" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy028" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy027" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy026" />
-      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy021" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\workSpace\usuallyWork\LeetCode" />
@@ -769,7 +767,12 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="GRAPH_OPTIONS">
+                <list>
+                  <option value="Base" />
+                  <option value="Standard" />
+                </list>
+              </option>
             </State>
           </value>
         </entry>
