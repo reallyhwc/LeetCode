@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="easy066">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy067/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy067/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy067/readme.md" afterDir="false" />
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="easy067">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy069/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy069/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy069/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -62,7 +62,7 @@
     "extract.method.default.visibility": "private",
     "git-widget-placeholder": "release/xuhu/test",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/easy02/easyBefore100/easy067",
+    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/easy02/easyBefore100/easy069",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,11 +74,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy069" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy067" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy066" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy058" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy035" />
-      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy028" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\workSpace\usuallyWork\LeetCode" />
@@ -413,7 +413,8 @@
       <workItem from="1752041767218" duration="4912000" />
       <workItem from="1752743921372" duration="10263000" />
       <workItem from="1752925738432" duration="1220000" />
-      <workItem from="1755133858452" duration="925000" />
+      <workItem from="1755133858452" duration="965000" />
+      <workItem from="1755175404204" duration="147000" />
     </task>
     <task id="LOCAL-00312" summary="0081 搜索旋转排序树组II">
       <created>1587910883459</created>
@@ -758,7 +759,7 @@
       <option name="project" value="LOCAL" />
       <updated>1590743858148</updated>
     </task>
-    <option name="localTasksCounter" value="371" />
+    <option name="localTasksCounter" value="372" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -784,7 +785,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="feat(easy026): 添加删除有序数组中的重复项功能及配置&#10;&#10;此提交为LeetCode题目“删除有序数组" />
     <MESSAGE value="feat(easy026): 添加删除有序数组中的重复项功能及配置&#10;&#10;此提交为LeetCode题目“删除有序数组中的重复项”增加了" />
     <MESSAGE value="feat(easy026): 添加删除有序数组中的重复项功能及配置&#10;&#10;此提交为LeetCode题目“删除有序数组中的重复项”增加了实现代码与相关配置，并" />
     <MESSAGE value="feat(easy026): 添加删除有序数组中的重复项功能及配置&#10;&#10;此提交为LeetCode题目“删除有序数组中的重复项”增加了实现代码与相关配置，并更新了统计信息和IDE设置。" />
@@ -809,7 +809,8 @@
     <MESSAGE value="feat(easy028): 添加查找字符串中第一个匹配项的下标功能及配置&#10;&#10;此提交为LeetCode题目“查找字符串中第一个匹配项的下标”增加了实现代码与相关配置，并更新了统计信息和IDE设置。" />
     <MESSAGE value="easy058" />
     <MESSAGE value="easy066" />
-    <option name="LAST_COMMIT_MESSAGE" value="easy066" />
+    <MESSAGE value="easy067" />
+    <option name="LAST_COMMIT_MESSAGE" value="easy067" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
