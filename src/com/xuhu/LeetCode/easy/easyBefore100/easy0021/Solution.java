@@ -1,6 +1,8 @@
 package com.xuhu.LeetCode.easy.easyBefore100.easy0021;
 
 
+import com.xuhu.LeetCode.a.util.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
