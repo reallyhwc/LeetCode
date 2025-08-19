@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="easy083">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy088/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy088/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy088/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="easy088">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy094/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy094/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy094/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -55,31 +52,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;release/xuhu/test&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/easy02/easyBefore100/easy088&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "release/xuhu/test",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/easy02/easyBefore100/easy094",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy094" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy088" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy083" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy070" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy069" />
-      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/easy02/easyBefore100/easy067" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\workSpace\usuallyWork\LeetCode" />
@@ -416,7 +413,7 @@
       <workItem from="1752925738432" duration="1220000" />
       <workItem from="1755133858452" duration="965000" />
       <workItem from="1755175404204" duration="4010000" />
-      <workItem from="1755565363080" duration="562000" />
+      <workItem from="1755565363080" duration="689000" />
     </task>
     <task id="LOCAL-00312" summary="0081 搜索旋转排序树组II">
       <created>1587910883459</created>
@@ -761,7 +758,7 @@
       <option name="project" value="LOCAL" />
       <updated>1590743858148</updated>
     </task>
-    <option name="localTasksCounter" value="376" />
+    <option name="localTasksCounter" value="377" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -787,7 +784,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="f" />
     <MESSAGE value="feat(easy02" />
     <MESSAGE value="feat(easy027): 添加移除元素的Le" />
     <MESSAGE value="feat(easy027): 添加移除元素的LeetCode题解及配置&#10;&#10;此" />
@@ -812,7 +808,8 @@
     <MESSAGE value="easy069" />
     <MESSAGE value="easy070" />
     <MESSAGE value="easy083" />
-    <option name="LAST_COMMIT_MESSAGE" value="easy083" />
+    <MESSAGE value="easy088" />
+    <option name="LAST_COMMIT_MESSAGE" value="easy088" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
