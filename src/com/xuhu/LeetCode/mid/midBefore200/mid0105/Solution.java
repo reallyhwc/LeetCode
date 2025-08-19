@@ -1,7 +1,6 @@
 package com.xuhu.LeetCode.mid.midBefore200.mid0105;
 
 
-import com.sun.source.tree.Tree;
 import com.xuhu.LeetCode.a.util.TreeNode;
 
 class Solution {
