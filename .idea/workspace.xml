@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="daily-49">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/hash/A00128/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/hash/A00128/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/hash/A00128/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="daily-128">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00283/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00283/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00283/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +63,7 @@
     "extract.method.default.visibility": "private",
     "git-widget-placeholder": "release/xuhu/test",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/hot/hash/A00128",
+    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/hot/dobbleIndex/A00283",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -421,7 +420,8 @@
       <workItem from="1755133858452" duration="965000" />
       <workItem from="1755175404204" duration="4010000" />
       <workItem from="1755565363080" duration="1998000" />
-      <workItem from="1755778642200" duration="1950000" />
+      <workItem from="1755778642200" duration="4733000" />
+      <workItem from="1756295930859" duration="373000" />
     </task>
     <task id="LOCAL-00312" summary="0081 搜索旋转排序树组II">
       <created>1587910883459</created>
@@ -766,7 +766,7 @@
       <option name="project" value="LOCAL" />
       <updated>1590743858148</updated>
     </task>
-    <option name="localTasksCounter" value="381" />
+    <option name="localTasksCounter" value="382" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -792,7 +792,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="feat(easy027): 添加移除元素的LeetCode题解及配置&#10;&#10;此提交为LeetCode题目“移除元素”增加了实现代" />
     <MESSAGE value="feat(easy027): 添加移除元素的LeetCode题解及配置&#10;&#10;此提交为LeetCode题目“移除元素”增加了实现代码与相关配置，并更新" />
     <MESSAGE value="feat(easy027): 添加移除元素的LeetCode题解及配置&#10;&#10;此提交为LeetCode题目“移除元素”增加了实现代码与相关配置，并更新了统计信息和IDE设置。" />
     <MESSAGE value="Aone Copilot 请求模型中..." />
@@ -817,7 +816,8 @@
     <MESSAGE value="easy100" />
     <MESSAGE value="daily" />
     <MESSAGE value="daily-49" />
-    <option name="LAST_COMMIT_MESSAGE" value="daily-49" />
+    <MESSAGE value="daily-128" />
+    <option name="LAST_COMMIT_MESSAGE" value="daily-128" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
