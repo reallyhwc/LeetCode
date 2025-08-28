@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="283">
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00011/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00011/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00011/readme.md" afterDir="false" />
+    <list default="true" id="126c88b0-a459-4af4-86d9-0730777ae735" name="Default Changelist" comment="11">
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00015/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00015/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00015/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
     "extract.method.default.visibility": "private",
     "git-widget-placeholder": "release/xuhu/test",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/hot/dobbleIndex/A00011",
+    "last_opened_file_path": "/Users/xuhu/workspace/xuhuLocal/LeetCode/src/com/xuhu/LeetCode/hot/dobbleIndex/A00015",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,11 +77,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00015" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00011" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/dobbleIndex/A00283" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/hash/A00128" />
       <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/hot/hash/A00049" />
-      <recent name="$PROJECT_DIR$/src/com/xuhu/LeetCode/daily/A20250819" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\workSpace\usuallyWork\LeetCode" />
@@ -420,7 +420,7 @@
       <workItem from="1755175404204" duration="4010000" />
       <workItem from="1755565363080" duration="1998000" />
       <workItem from="1755778642200" duration="4733000" />
-      <workItem from="1756295930859" duration="1050000" />
+      <workItem from="1756295930859" duration="3429000" />
     </task>
     <task id="LOCAL-00312" summary="0081 搜索旋转排序树组II">
       <created>1587910883459</created>
@@ -765,7 +765,7 @@
       <option name="project" value="LOCAL" />
       <updated>1590743858148</updated>
     </task>
-    <option name="localTasksCounter" value="383" />
+    <option name="localTasksCounter" value="384" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -791,7 +791,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="feat(easy027): 添加移除元素的LeetCode题解及配置&#10;&#10;此提交为LeetCode题目“移除元素”增加了实现代码与相关配置，并更新了统计信息和IDE设置。" />
     <MESSAGE value="Aone Copilot 请求模型中..." />
     <MESSAGE value="fea" />
     <MESSAGE value="feat(easy028):" />
@@ -816,7 +815,8 @@
     <MESSAGE value="daily-49" />
     <MESSAGE value="daily-128" />
     <MESSAGE value="283" />
-    <option name="LAST_COMMIT_MESSAGE" value="283" />
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
